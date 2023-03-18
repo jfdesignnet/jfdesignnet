@@ -27,7 +27,7 @@ jobs:
             LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
             LASTFM_API_SECRET: ${{ secrets.LASTFM_API_SECRET }}
         - name: Commit README.md
-          uses: EndBug/add-and-commit@v4
+          #uses: EndBug/add-and-commit@v4
           with:
             author_name: Action
             author_email: action@github.com
