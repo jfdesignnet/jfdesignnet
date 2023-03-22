@@ -32,5 +32,4 @@ jobs:
             add: 'README.md'
             default_author: github_actions
             message: 'Action: Updated README.md.'
-            new_branch: jfdesignnet/updated-readme
-            push: origin jfdesignnet/updated-readme --set-upstream --force
+            push: origin main --force
