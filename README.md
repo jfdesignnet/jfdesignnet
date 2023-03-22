@@ -9,8 +9,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/49035cb6be46c336ca2c301ea07903a7.png' width='16%' height='16%' alt='Nightwish - Decades'>](https://www.last.fm/music/nightwish/decades)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f83764a557d2d4f94cc273c614fb279d.jpg' width='16%' height='16%' alt='Ana Popovic - Trilogy (Full Album)'>](https://www.last.fm/music/ana%2bpopovic/trilogy%2b%2528full%2balbum%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b4da996d84ca088e71c52f6c84dba606.jpg' width='16%' height='16%' alt='Kamelot - The Shadow Theory (Deluxe Bonus Version)'>](https://www.last.fm/music/kamelot/the%2bshadow%2btheory%2b%2528deluxe%2bbonus%2bversion%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/93f608c7db104140c16f000906bb4445.png' width='16%' height='16%' alt='Kamelot - Haven'>](https://www.last.fm/music/kamelot/haven)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6ee403597a4bc1b5a1d73f871c544caf.jpg' width='16%' height='16%' alt='Silje Nergaard - Silje Nergaard'>](https://www.last.fm/music/silje%2bnergaard/silje%2bnergaard)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/75a1e5e0738f9a03698dcc1cfdf9a142.png' width='16%' height='16%' alt='Lyn Stanley - London Calling: A Toast to Julie London'>](https://www.last.fm/music/lyn%2bstanley/london%2bcalling%253a%2ba%2btoast%2bto%2bjulie%2blondon)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/31abfd435e9cd3d766418ffb9430935f.jpg' width='16%' height='16%' alt='Nightwish - Vehicle Of Spirit: Wembley Arena (Live)'>](https://www.last.fm/music/nightwish/vehicle%2bof%2bspirit%253a%2bwembley%2barena%2b%2528live%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/38d9292ed49051d87fc5d030a8bad0cd.jpg' width='16%' height='16%' alt='Ana Popovic - Live for Live'>](https://www.last.fm/music/ana%2bpopovic/live%2bfor%2blive)&nbsp;
 <br>
