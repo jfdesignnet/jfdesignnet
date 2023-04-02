@@ -9,8 +9,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ea648e907d373d57ccf3a990d36d66a8.jpg' width='16%' height='16%' alt='Faun - Märchen & Mythen'>](https://www.last.fm/music/faun/m%25c3%25a4rchen%2b%2526%2bmythen)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/69e384c5c9be75f8699edb852e6de743.jpg' width='16%' height='16%' alt='Faun - Pagan'>](https://www.last.fm/music/faun/pagan)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0d1f44fadc571df60099abeee01ffe58.jpg' width='16%' height='16%' alt='Norah Jones - Come Away With Me (Super Deluxe Edition)'>](https://www.last.fm/music/norah%2bjones/come%2baway%2bwith%2bme%2b%2528super%2bdeluxe%2bedition%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/38bebf4e2e107deab3cbf032dbffe0c9.jpg' width='16%' height='16%' alt='Peter Gundry - The Witching Hour'>](https://www.last.fm/music/peter%2bgundry/the%2bwitching%2bhour)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/27eb1eb3232fa5891144f93361bc8661.jpg' width='16%' height='16%' alt='Danheim - Runagaldr'>](https://www.last.fm/music/danheim/runagaldr)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ea16763cacde952b659de38f38b69528.jpg' width='16%' height='16%' alt='Peter Gundry - The Unspoken Tales'>](https://www.last.fm/music/peter%2bgundry/the%2bunspoken%2btales)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5afe56fc6f01e5276e7e68ca2521598c.jpg' width='16%' height='16%' alt='Danheim - Herja'>](https://www.last.fm/music/danheim/herja)&nbsp;
 <br>
