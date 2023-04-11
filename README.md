@@ -11,6 +11,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6ee403597a4bc1b5a1d73f871c544caf.jpg' width='16%' height='16%' alt='Silje Nergaard - Silje Nergaard'>](https://www.last.fm/music/silje%2bnergaard/silje%2bnergaard)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a212cd5954433e47ba350a4a3fa22d97.jpg' width='16%' height='16%' alt='Diana Krall - Glad Rag Doll (Deluxe Edition)'>](https://www.last.fm/music/diana%2bkrall/glad%2brag%2bdoll%2b%2528deluxe%2bedition%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b7606da1b1e234364617f9bc6e8393c0.png' width='16%' height='16%' alt='Lyn Stanley - Live at Studio A'>](https://www.last.fm/music/lyn%2bstanley/live%2bat%2bstudio%2ba)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/84a6610777e54bfbbb28beb52d9432ee.jpg' width='16%' height='16%' alt='Lisa Wahlandt - Wowowonder'>](https://www.last.fm/music/lisa%2bwahlandt/wowowonder)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e148b83e3a0449f7c993f58d6eb07076.jpg' width='16%' height='16%' alt='Halie Loren - Heart First'>](https://www.last.fm/music/halie%2bloren/heart%2bfirst)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/51e523f8798045359c418b517bdfd69c.jpg' width='16%' height='16%' alt='Nicki Parrott - Black Coffee'>](https://www.last.fm/music/nicki%2bparrott/black%2bcoffee)&nbsp;
 <br>
