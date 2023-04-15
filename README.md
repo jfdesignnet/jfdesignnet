@@ -11,6 +11,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6e43226968da11d8182fbc3fa26f83d2.jpg' width='16%' height='16%' alt='Nightwish - Once (Remastered)'>](https://www.last.fm/music/nightwish/once%2b%2528remastered%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3b21495764846227e3e05cf09deffbb0.jpg' width='16%' height='16%' alt='Within Temptation - Resist (Extended Deluxe)'>](https://www.last.fm/music/within%2btemptation/resist%2b%2528extended%2bdeluxe%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/643946fe6a9cd3a62ce857d44eb6b501.png' width='16%' height='16%' alt='Nightwish - Decades: Live in Buenos Aires'>](https://www.last.fm/music/nightwish/decades%253a%2blive%2bin%2bbuenos%2baires)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6ee403597a4bc1b5a1d73f871c544caf.jpg' width='16%' height='16%' alt='Silje Nergaard - Silje Nergaard'>](https://www.last.fm/music/silje%2bnergaard/silje%2bnergaard)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b7606da1b1e234364617f9bc6e8393c0.png' width='16%' height='16%' alt='Lyn Stanley - Live at Studio A'>](https://www.last.fm/music/lyn%2bstanley/live%2bat%2bstudio%2ba)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7fedc20a510600b119874c79449f4b7e.jpg' width='16%' height='16%' alt='Nightwish - HUMAN. :II: NATURE.'>](https://www.last.fm/music/nightwish/human.%2b%253aii%253a%2bnature.)&nbsp;
 <br>
