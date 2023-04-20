@@ -10,7 +10,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2f1cfb69028a421dba07c4946feee86b.png' width='16%' height='16%' alt='Nightwish - Imaginaerum (The Score)'>](https://www.last.fm/music/nightwish/imaginaerum%2b%2528the%2bscore%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1c8dce18680b9684ed0474f1175c9cbc.jpg' width='16%' height='16%' alt='Epica - Retrospect - 10th Anniversary (Live)'>](https://www.last.fm/music/epica/retrospect%2b-%2b10th%2banniversary%2b%2528live%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ecdba24981887896e37989b2c449d441.jpg' width='16%' height='16%' alt='Nightwish - Endless Forms Most Beautiful (Deluxe Version)'>](https://www.last.fm/music/nightwish/endless%2bforms%2bmost%2bbeautiful%2b%2528deluxe%2bversion%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/073487e3015fd18b5d950bbcbfc11763.jpg' width='16%' height='16%' alt='Edenbridge - Shangri-La'>](https://www.last.fm/music/edenbridge/shangri-la)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/49035cb6be46c336ca2c301ea07903a7.png' width='16%' height='16%' alt='Nightwish - Decades'>](https://www.last.fm/music/nightwish/decades)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3b21495764846227e3e05cf09deffbb0.jpg' width='16%' height='16%' alt='Within Temptation - Resist (Extended Deluxe)'>](https://www.last.fm/music/within%2btemptation/resist%2b%2528extended%2bdeluxe%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5176058f22d6fc6b184aeff4c92d07bf.jpg' width='16%' height='16%' alt='After Forever - Prison of Desire: The Album - The Sessions (Remaster)'>](https://www.last.fm/music/after%2bforever/prison%2bof%2bdesire%253a%2bthe%2balbum%2b-%2bthe%2bsessions%2b%2528remaster%2529)&nbsp;
 <br>
