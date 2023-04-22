@@ -10,7 +10,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3a78d6716d2e7b14ad91d42142afabab.jpg' width='16%' height='16%' alt='Therion - 20th Anniversary Show (Live in Budapest 2007)'>](https://www.last.fm/music/therion/20th%2banniversary%2bshow%2b%2528live%2bin%2bbudapest%2b2007%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4fd922677368126320f54c98a4eda36c.jpg' width='16%' height='16%' alt='Eivør - Live in Tórshavn'>](https://www.last.fm/music/eiv%25c3%25b8r/live%2bin%2bt%25c3%25b3rshavn)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6ee403597a4bc1b5a1d73f871c544caf.jpg' width='16%' height='16%' alt='Silje Nergaard - Silje Nergaard'>](https://www.last.fm/music/silje%2bnergaard/silje%2bnergaard)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f873d4caba2440e6b87502ba6779a008.png' width='16%' height='16%' alt='Theatre of Tragedy - Last Curtain Call'>](https://www.last.fm/music/theatre%2bof%2btragedy/last%2bcurtain%2bcall)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/29aa79d0da55bdf5b1c7229ffbd13689.jpg' width='16%' height='16%' alt='Faun - Midgard (Tour Edition)'>](https://www.last.fm/music/faun/midgard%2b%2528tour%2bedition%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b4da996d84ca088e71c52f6c84dba606.jpg' width='16%' height='16%' alt='Kamelot - The Shadow Theory (Deluxe Bonus Version)'>](https://www.last.fm/music/kamelot/the%2bshadow%2btheory%2b%2528deluxe%2bbonus%2bversion%2529)&nbsp;
 <br>
