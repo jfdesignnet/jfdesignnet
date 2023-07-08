@@ -10,7 +10,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/246e63c6b14548919d6efe2f44208fe0.jpg' width='16%' height='16%' alt='Lynne Arriale Trio - Lynne Arriale Trio Live'>](https://www.last.fm/music/lynne%2barriale%2btrio/lynne%2barriale%2btrio%2blive)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a212cd5954433e47ba350a4a3fa22d97.jpg' width='16%' height='16%' alt='Diana Krall - Glad Rag Doll (Deluxe Edition)'>](https://www.last.fm/music/diana%2bkrall/glad%2brag%2bdoll%2b%2528deluxe%2bedition%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bab001f93e0882d167f9b0546a6e8810.jpg' width='16%' height='16%' alt='Nicki Parrott - Close To You - Burt Bacharach Song Book'>](https://www.last.fm/music/nicki%2bparrott/close%2bto%2byou%2b-%2bburt%2bbacharach%2bsong%2bbook)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d9832bb96dfc107d869179a317a0dd9f.jpg' width='16%' height='16%' alt='Stacey Kent - Dreamer in Concert (Bonus Edition)'>](https://www.last.fm/music/stacey%2bkent/dreamer%2bin%2bconcert%2b%2528bonus%2bedition%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4976aa26fbf6bf494d3afb1761db7a3a.jpg' width='16%' height='16%' alt='Stacey Kent - The Changing Lights (Bonus Edition)'>](https://www.last.fm/music/stacey%2bkent/the%2bchanging%2blights%2b%2528bonus%2bedition%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f36a29187bbf495bbfa1c4e93a633aa0.jpg' width='16%' height='16%' alt='Chantal Chamberland - Dripping Indigo'>](https://www.last.fm/music/chantal%2bchamberland/dripping%2bindigo)&nbsp;
 <br>
