@@ -12,5 +12,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8e1ea80a49d31012e46f4033987a9050.jpg' width='16%' height='16%' alt='Silje Nergaard - Hamar Railway Station'>](https://www.last.fm/music/silje%2bnergaard/hamar%2brailway%2bstation)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/51e523f8798045359c418b517bdfd69c.jpg' width='16%' height='16%' alt='Nicki Parrott - Black Coffee'>](https://www.last.fm/music/nicki%2bparrott/black%2bcoffee)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fcea6a89063b71fe3fbd6bee6b1732eb.jpg' width='16%' height='16%' alt='Stacey Kent - Songs From Other Places (Special Edition)'>](https://www.last.fm/music/stacey%2bkent/songs%2bfrom%2bother%2bplaces%2b%2528special%2bedition%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/67f0834b9efec908a86f6721a705a1b6.jpg' width='16%' height='16%' alt='Silje Nergaard - Houses'>](https://www.last.fm/music/silje%2bnergaard/houses)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/84a6610777e54bfbbb28beb52d9432ee.jpg' width='16%' height='16%' alt='Lisa Wahlandt - Wowowonder'>](https://www.last.fm/music/lisa%2bwahlandt/wowowonder)&nbsp;
 <br>
