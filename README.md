@@ -2,9 +2,9 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/jfdesignnet) in the last week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/073487e3015fd18b5d950bbcbfc11763.jpg' width='16%' height='16%' alt='Edenbridge - Shangri-La'>](https://www.last.fm/music/edenbridge/shangri-la)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/064994f8157e4cd794128738f9a5205e.png' width='16%' height='16%' alt='After Forever - Decipher: The Album - The Sessions'>](https://www.last.fm/music/after%2bforever/decipher%253a%2bthe%2balbum%2b-%2bthe%2bsessions)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/93554ab4e72a11dc848b81f76f284a83.jpg' width='16%' height='16%' alt='Helloween - United Alive In Madrid'>](https://www.last.fm/music/helloween/united%2balive%2bin%2bmadrid)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ac19172600395aa4452b6fe12e66cece.jpg' width='16%' height='16%' alt='Nancy LaMott - Ask Me Again'>](https://www.last.fm/music/nancy%2blamott/ask%2bme%2bagain)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/93f608c7db104140c16f000906bb4445.png' width='16%' height='16%' alt='Kamelot - Haven'>](https://www.last.fm/music/kamelot/haven)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1c8dce18680b9684ed0474f1175c9cbc.jpg' width='16%' height='16%' alt='Epica - Retrospect - 10th Anniversary (Live)'>](https://www.last.fm/music/epica/retrospect%2b-%2b10th%2banniversary%2b%2528live%2529)&nbsp;
 <br>
