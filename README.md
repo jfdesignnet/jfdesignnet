@@ -9,8 +9,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/dc01f76af0d244357d8bfa47737f926e.jpg' width='16%' height='16%' alt='Nicki Parrott - Unforgettable'>](https://www.last.fm/music/nicki%2bparrott/unforgettable)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bab001f93e0882d167f9b0546a6e8810.jpg' width='16%' height='16%' alt='Nicki Parrott - Close To You - Burt Bacharach Song Book'>](https://www.last.fm/music/nicki%2bparrott/close%2bto%2byou%2b-%2bburt%2bbacharach%2bsong%2bbook)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/64c510b08bc133de30589d3c05406866.jpg' width='16%' height='16%' alt='Diana Krall - Stepping Out (Remastered)'>](https://www.last.fm/music/diana%2bkrall/stepping%2bout%2b%2528remastered%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/da557bafd2f349419962be3cf06318a3.png' width='16%' height='16%' alt='Diana Krall - Glad Rag Doll'>](https://www.last.fm/music/diana%2bkrall/glad%2brag%2bdoll)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/01e9370e5271fb039110cf99d1553558.jpg' width='16%' height='16%' alt='Stacey Kent - Its A Wonderful World'>](https://www.last.fm/music/stacey%2bkent/it%2527s%2ba%2bwonderful%2bworld)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0835048a6d9ec096c2ec8e652dfe2e4e.jpg' width='16%' height='16%' alt='Diana Krall - This Dream Of You'>](https://www.last.fm/music/diana%2bkrall/this%2bdream%2bof%2byou)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/34ebc6013c4455a1488027fc694b18cd.jpg' width='16%' height='16%' alt='Nicki Parrott - Great 70s'>](https://www.last.fm/music/nicki%2bparrott/great%2b70%2527s)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b96429822b40dfdb2fb6e8b98b7b8c70.jpg' width='16%' height='16%' alt='Nicki Parrott - Papa Loves Mambo'>](https://www.last.fm/music/nicki%2bparrott/papa%2bloves%2bmambo)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5371e42e3911453cc57f725f086e2e73.jpg' width='16%' height='16%' alt='Diana Krall - All For You (A Dedication To The Nat King Cole Trio)'>](https://www.last.fm/music/diana%2bkrall/all%2bfor%2byou%2b%2528a%2bdedication%2bto%2bthe%2bnat%2bking%2bcole%2btrio%2529)&nbsp;
 <br>
