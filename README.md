@@ -9,8 +9,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/073487e3015fd18b5d950bbcbfc11763.jpg' width='16%' height='16%' alt='Edenbridge - Shangri-La'>](https://www.last.fm/music/edenbridge/shangri-la)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3b21495764846227e3e05cf09deffbb0.jpg' width='16%' height='16%' alt='Within Temptation - Resist (Extended Deluxe)'>](https://www.last.fm/music/within%2btemptation/resist%2b%2528extended%2bdeluxe%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/93554ab4e72a11dc848b81f76f284a83.jpg' width='16%' height='16%' alt='Helloween - United Alive In Madrid'>](https://www.last.fm/music/helloween/united%2balive%2bin%2bmadrid)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ecdba24981887896e37989b2c449d441.jpg' width='16%' height='16%' alt='Nightwish - Endless Forms Most Beautiful (Deluxe Version)'>](https://www.last.fm/music/nightwish/endless%2bforms%2bmost%2bbeautiful%2b%2528deluxe%2bversion%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cbba99542fd2476ac7210e7bb40bfad5.jpg' width='16%' height='16%' alt='Within Temptation - Let Us Burn: Elements & Hydra Live in Concert'>](https://www.last.fm/music/within%2btemptation/let%2bus%2bburn%253a%2belements%2b%2526%2bhydra%2blive%2bin%2bconcert)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5176058f22d6fc6b184aeff4c92d07bf.jpg' width='16%' height='16%' alt='After Forever - Prison of Desire: The Album - The Sessions (Remaster)'>](https://www.last.fm/music/after%2bforever/prison%2bof%2bdesire%253a%2bthe%2balbum%2b-%2bthe%2bsessions%2b%2528remaster%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/064994f8157e4cd794128738f9a5205e.png' width='16%' height='16%' alt='After Forever - Decipher: The Album - The Sessions'>](https://www.last.fm/music/after%2bforever/decipher%253a%2bthe%2balbum%2b-%2bthe%2bsessions)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d3aaad8bc8b243eec3611d4a6c5fc7d4.png' width='16%' height='16%' alt='Xandria - Sacrificium'>](https://www.last.fm/music/xandria/sacrificium)&nbsp;
 <br>
