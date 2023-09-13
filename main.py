@@ -14,7 +14,7 @@ def main():
     user = network.get_user(args.username)
     top_albums = user.get_top_albums(period=args.timeframe, limit=limit + 5)
 
-    readme_content = """### Hi there 👋, I'm [jfdesign](https://blog.jfdesignnet.com)!\n
+    readme_content = """### Hi there, \n
 ### My most listened albums on [last.fm](https://www.last.fm/user/jfdesignnet) in the last week\n
 """
 
