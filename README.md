@@ -2,15 +2,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/jfdesignnet) in the last week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3b21495764846227e3e05cf09deffbb0.jpg' width='16%' height='16%' alt='Within Temptation - Resist (Extended Deluxe)'>](https://www.last.fm/music/within%2btemptation/resist%2b%2528extended%2bdeluxe%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4bedf5e22b5b91cb293c3d0cf056e050.jpg' width='16%' height='16%' alt='Visions of Atlantis - A Symphonic Journey To Remember (Live)'>](https://www.last.fm/music/visions%2bof%2batlantis/a%2bsymphonic%2bjourney%2bto%2bremember%2b%2528live%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d3aaad8bc8b243eec3611d4a6c5fc7d4.png' width='16%' height='16%' alt='Xandria - Sacrificium'>](https://www.last.fm/music/xandria/sacrificium)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ecdba24981887896e37989b2c449d441.jpg' width='16%' height='16%' alt='Nightwish - Endless Forms Most Beautiful (Deluxe Version)'>](https://www.last.fm/music/nightwish/endless%2bforms%2bmost%2bbeautiful%2b%2528deluxe%2bversion%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cbba99542fd2476ac7210e7bb40bfad5.jpg' width='16%' height='16%' alt='Within Temptation - Let Us Burn: Elements & Hydra Live in Concert'>](https://www.last.fm/music/within%2btemptation/let%2bus%2bburn%253a%2belements%2b%2526%2bhydra%2blive%2bin%2bconcert)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b4b359ce33ad7f9da03d3aef9424aed4.jpg' width='16%' height='16%' alt='Moonlight Haze - Animus'>](https://www.last.fm/music/moonlight%2bhaze/animus)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/be0ce877668141a7260ad22aedd2dce4.jpg' width='16%' height='16%' alt='Nemesea - Uprise'>](https://www.last.fm/music/nemesea/uprise)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9821627f227fc0eb07ced3a68dab3b2c.jpg' width='16%' height='16%' alt='Sonata Arctica - The Days of Grays (Japan Edition)'>](https://www.last.fm/music/sonata%2barctica/the%2bdays%2bof%2bgrays%2b%2528japan%2bedition%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/63c05aede710a4b25bf7c8e6ca44c580.jpg' width='16%' height='16%' alt='Sonata Arctica - Unia (Japan Edition)'>](https://www.last.fm/music/sonata%2barctica/unia%2b%2528japan%2bedition%2529)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c058bb8c20ccb26c4e7051934d9aa05c.png' width='16%' height='16%' alt='Diabulus In Musica - Euphonic Entropy'>](https://www.last.fm/music/diabulus%2bin%2bmusica/euphonic%2bentropy)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/eef35303d12f82e3d18872b9f693b3de.jpg' width='16%' height='16%' alt='Epica - The Classical Conspiracy (Live in Miskolc)'>](https://www.last.fm/music/epica/the%2bclassical%2bconspiracy%2b%2528live%2bin%2bmiskolc%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/93554ab4e72a11dc848b81f76f284a83.jpg' width='16%' height='16%' alt='Helloween - United Alive In Madrid'>](https://www.last.fm/music/helloween/united%2balive%2bin%2bmadrid)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d8b20dd32e9a9f88d2b2002214a06efc.jpg' width='16%' height='16%' alt='Moonlight Haze - De Rerum Natura'>](https://www.last.fm/music/moonlight%2bhaze/de%2brerum%2bnatura)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/40028d970614a112c46e90386de82318.jpg' width='16%' height='16%' alt='Moonlight Haze - Lunaris'>](https://www.last.fm/music/moonlight%2bhaze/lunaris)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3d58a90c00a4fa9f0769c9c72c0e1815.png' width='16%' height='16%' alt='Sirenia - Riddles, Ruins & Revelations'>](https://www.last.fm/music/sirenia/riddles%252c%2bruins%2b%2526%2brevelations)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c9810f49ef9165a9cdf9a9c345bda070.jpg' width='16%' height='16%' alt='Nemesea - White Flag'>](https://www.last.fm/music/nemesea/white%2bflag)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/97ecfa9a7261b0561a39cf752c0b4562.jpg' width='16%' height='16%' alt='Sirenia - Arcane Astral Aeons'>](https://www.last.fm/music/sirenia/arcane%2bastral%2baeons)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8581ff16f192e81c91d068179933f51b.jpg' width='16%' height='16%' alt='Sirenia - Dim Days of Dolor'>](https://www.last.fm/music/sirenia/dim%2bdays%2bof%2bdolor)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b94ae3c33470964efea1d74151ffbd13.jpg' width='16%' height='16%' alt='Sister Sin - Dance of the Wicked'>](https://www.last.fm/music/sister%2bsin/dance%2bof%2bthe%2bwicked)&nbsp;
 <br>
