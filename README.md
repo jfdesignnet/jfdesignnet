@@ -9,8 +9,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/53427f717a5b49c5b8e71a90a59f4cb9.jpg' width='16%' height='16%' alt='Wolfenmond - Flammenspiel & Schattenklang'>](https://www.last.fm/music/wolfenmond/flammenspiel%2b%2526%2bschattenklang)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/40028d970614a112c46e90386de82318.jpg' width='16%' height='16%' alt='Moonlight Haze - Lunaris'>](https://www.last.fm/music/moonlight%2bhaze/lunaris)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f83764a557d2d4f94cc273c614fb279d.jpg' width='16%' height='16%' alt='Ana Popovic - Trilogy (Full Album)'>](https://www.last.fm/music/ana%2bpopovic/trilogy%2b%2528full%2balbum%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d3aaad8bc8b243eec3611d4a6c5fc7d4.png' width='16%' height='16%' alt='Xandria - Sacrificium'>](https://www.last.fm/music/xandria/sacrificium)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5176058f22d6fc6b184aeff4c92d07bf.jpg' width='16%' height='16%' alt='After Forever - Prison of Desire: The Album - The Sessions (Remaster)'>](https://www.last.fm/music/after%2bforever/prison%2bof%2bdesire%253a%2bthe%2balbum%2b-%2bthe%2bsessions%2b%2528remaster%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/064994f8157e4cd794128738f9a5205e.png' width='16%' height='16%' alt='After Forever - Decipher: The Album - The Sessions'>](https://www.last.fm/music/after%2bforever/decipher%253a%2bthe%2balbum%2b-%2bthe%2bsessions)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b4b359ce33ad7f9da03d3aef9424aed4.jpg' width='16%' height='16%' alt='Moonlight Haze - Animus'>](https://www.last.fm/music/moonlight%2bhaze/animus)&nbsp;
 <br>
