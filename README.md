@@ -8,9 +8,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b4da996d84ca088e71c52f6c84dba606.jpg' width='16%' height='16%' alt='Kamelot - The Shadow Theory (Deluxe Bonus Version)'>](https://www.last.fm/music/kamelot/the%2bshadow%2btheory%2b%2528deluxe%2bbonus%2bversion%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/eef35303d12f82e3d18872b9f693b3de.jpg' width='16%' height='16%' alt='Epica - The Classical Conspiracy (Live in Miskolc)'>](https://www.last.fm/music/epica/the%2bclassical%2bconspiracy%2b%2528live%2bin%2bmiskolc%2529)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2f1cfb69028a421dba07c4946feee86b.png' width='16%' height='16%' alt='Nightwish - Imaginaerum (The Score)'>](https://www.last.fm/music/nightwish/imaginaerum%2b%2528the%2bscore%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1c8dce18680b9684ed0474f1175c9cbc.jpg' width='16%' height='16%' alt='Epica - Retrospect - 10th Anniversary (Live)'>](https://www.last.fm/music/epica/retrospect%2b-%2b10th%2banniversary%2b%2528live%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3b21495764846227e3e05cf09deffbb0.jpg' width='16%' height='16%' alt='Within Temptation - Resist (Extended Deluxe)'>](https://www.last.fm/music/within%2btemptation/resist%2b%2528extended%2bdeluxe%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4bedf5e22b5b91cb293c3d0cf056e050.jpg' width='16%' height='16%' alt='Visions of Atlantis - A Symphonic Journey To Remember (Live)'>](https://www.last.fm/music/visions%2bof%2batlantis/a%2bsymphonic%2bjourney%2bto%2bremember%2b%2528live%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/be0ce877668141a7260ad22aedd2dce4.jpg' width='16%' height='16%' alt='Nemesea - Uprise'>](https://www.last.fm/music/nemesea/uprise)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/51d4889a19125cd0e09182f50c82d353.jpg' width='16%' height='16%' alt='Battle Beast - Battle Beast'>](https://www.last.fm/music/battle%2bbeast/battle%2bbeast)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c9810f49ef9165a9cdf9a9c345bda070.jpg' width='16%' height='16%' alt='Nemesea - White Flag'>](https://www.last.fm/music/nemesea/white%2bflag)&nbsp;
 <br>
