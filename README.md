@@ -12,5 +12,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/29aa79d0da55bdf5b1c7229ffbd13689.jpg' width='16%' height='16%' alt='Faun - Midgard (Tour Edition)'>](https://www.last.fm/music/faun/midgard%2b%2528tour%2bedition%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/12842bb6641dcff827cb25b4649a0fdb.png' width='16%' height='16%' alt='Leaves Eyes - The Last Viking'>](https://www.last.fm/music/leaves%2527%2beyes/the%2blast%2bviking)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/53427f717a5b49c5b8e71a90a59f4cb9.jpg' width='16%' height='16%' alt='Wolfenmond - Flammenspiel & Schattenklang'>](https://www.last.fm/music/wolfenmond/flammenspiel%2b%2526%2bschattenklang)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3b21495764846227e3e05cf09deffbb0.jpg' width='16%' height='16%' alt='Within Temptation - Resist (Extended Deluxe)'>](https://www.last.fm/music/within%2btemptation/resist%2b%2528extended%2bdeluxe%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b4da996d84ca088e71c52f6c84dba606.jpg' width='16%' height='16%' alt='Kamelot - The Shadow Theory (Deluxe Bonus Version)'>](https://www.last.fm/music/kamelot/the%2bshadow%2btheory%2b%2528deluxe%2bbonus%2bversion%2529)&nbsp;
 <br>
