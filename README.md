@@ -4,7 +4,7 @@
 
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e3c79547d80c906d1e957b4dc5030679.jpg' width='16%' height='16%' alt='Norah Jones - Come Away With Me (Super Deluxe Edition)'>](https://www.last.fm/music/norah%2bjones/come%2baway%2bwith%2bme%2b%2528super%2bdeluxe%2bedition%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/01e9370e5271fb039110cf99d1553558.jpg' width='16%' height='16%' alt='Stacey Kent - Its A Wonderful World'>](https://www.last.fm/music/stacey%2bkent/it%2527s%2ba%2bwonderful%2bworld)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ac19172600395aa4452b6fe12e66cece.jpg' width='16%' height='16%' alt='Nancy LaMott - Ask Me Again'>](https://www.last.fm/music/nancy%2blamott/ask%2bme%2bagain)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/84a6610777e54bfbbb28beb52d9432ee.jpg' width='16%' height='16%' alt='Lisa Wahlandt - Wowowonder'>](https://www.last.fm/music/lisa%2bwahlandt/wowowonder)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/22172e4fab577d8e12caf98d4c185119.jpg' width='16%' height='16%' alt='Patricia Barber - Higher'>](https://www.last.fm/music/patricia%2bbarber/higher)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fcea6a89063b71fe3fbd6bee6b1732eb.jpg' width='16%' height='16%' alt='Stacey Kent - Songs From Other Places (Special Edition)'>](https://www.last.fm/music/stacey%2bkent/songs%2bfrom%2bother%2bplaces%2b%2528special%2bedition%2529)&nbsp;
 <br>
