@@ -9,8 +9,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fcea6a89063b71fe3fbd6bee6b1732eb.jpg' width='16%' height='16%' alt='Stacey Kent - Songs From Other Places (Special Edition)'>](https://www.last.fm/music/stacey%2bkent/songs%2bfrom%2bother%2bplaces%2b%2528special%2bedition%2529)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/58aad0f3c85d26c0dff2796bba6aa312.jpg' width='16%' height='16%' alt='Patricia Barber - Cafe Blue'>](https://www.last.fm/music/patricia%2bbarber/cafe%2bblue)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6ee403597a4bc1b5a1d73f871c544caf.jpg' width='16%' height='16%' alt='Silje Nergaard - Silje Nergaard'>](https://www.last.fm/music/silje%2bnergaard/silje%2bnergaard)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ba3f68c7b0dd1c09cd20145049af2836.jpg' width='16%' height='16%' alt='Halie Loren - LIVE AT COTTON CLUB'>](https://www.last.fm/music/halie%2bloren/live%2bat%2bcotton%2bclub)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/86e786b4a9a78928318f110a92dc249b.jpg' width='16%' height='16%' alt='Patricia Barber - Companion'>](https://www.last.fm/music/patricia%2bbarber/companion)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a3437d5d116e4faecf7685bed7eccba3.jpg' width='16%' height='16%' alt='Halie Loren - THE BEST COLLECTION'>](https://www.last.fm/music/halie%2bloren/the%2bbest%2bcollection)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e8e02819937e6bc772fee5fb182cdac8.jpg' width='16%' height='16%' alt='Fiona Joy Hawkins - The Lightness of Dark'>](https://www.last.fm/music/fiona%2bjoy%2bhawkins/the%2blightness%2bof%2bdark)&nbsp;
 <br>
