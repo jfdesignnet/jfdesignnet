@@ -9,8 +9,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/29aa79d0da55bdf5b1c7229ffbd13689.jpg' width='16%' height='16%' alt='Faun - Midgard (Tour Edition)'>](https://www.last.fm/music/faun/midgard%2b%2528tour%2bedition%2529)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fcea6a89063b71fe3fbd6bee6b1732eb.jpg' width='16%' height='16%' alt='Stacey Kent - Songs From Other Places (Special Edition)'>](https://www.last.fm/music/stacey%2bkent/songs%2bfrom%2bother%2bplaces%2b%2528special%2bedition%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fbe9c13d45ef4886c832b10fa1529486.jpg' width='16%' height='16%' alt='Pythia - Shadows of a Broken Past'>](https://www.last.fm/music/pythia/shadows%2bof%2ba%2bbroken%2bpast)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ecdba24981887896e37989b2c449d441.jpg' width='16%' height='16%' alt='Nightwish - Endless Forms Most Beautiful (Deluxe Version)'>](https://www.last.fm/music/nightwish/endless%2bforms%2bmost%2bbeautiful%2b%2528deluxe%2bversion%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/38bebf4e2e107deab3cbf032dbffe0c9.jpg' width='16%' height='16%' alt='Peter Gundry - The Witching Hour'>](https://www.last.fm/music/peter%2bgundry/the%2bwitching%2bhour)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a41b676b6e94a277aeab2e7deb889358.jpg' width='16%' height='16%' alt='Nicki Parrott - Angel Eyes'>](https://www.last.fm/music/nicki%2bparrott/angel%2beyes)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/246e63c6b14548919d6efe2f44208fe0.jpg' width='16%' height='16%' alt='Lynne Arriale Trio - Lynne Arriale Trio Live'>](https://www.last.fm/music/lynne%2barriale%2btrio/lynne%2barriale%2btrio%2blive)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/51e523f8798045359c418b517bdfd69c.jpg' width='16%' height='16%' alt='Nicki Parrott - Black Coffee'>](https://www.last.fm/music/nicki%2bparrott/black%2bcoffee)&nbsp;
 <br>
