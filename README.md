@@ -8,7 +8,7 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6ee403597a4bc1b5a1d73f871c544caf.jpg' width='16%' height='16%' alt='Silje Nergaard - Silje Nergaard'>](https://www.last.fm/music/silje%2bnergaard/silje%2bnergaard)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fcea6a89063b71fe3fbd6bee6b1732eb.jpg' width='16%' height='16%' alt='Stacey Kent - Songs From Other Places (Special Edition)'>](https://www.last.fm/music/stacey%2bkent/songs%2bfrom%2bother%2bplaces%2b%2528special%2bedition%2529)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/38bebf4e2e107deab3cbf032dbffe0c9.jpg' width='16%' height='16%' alt='Peter Gundry - The Witching Hour'>](https://www.last.fm/music/peter%2bgundry/the%2bwitching%2bhour)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ba3f68c7b0dd1c09cd20145049af2836.jpg' width='16%' height='16%' alt='Halie Loren - LIVE AT COTTON CLUB'>](https://www.last.fm/music/halie%2bloren/live%2bat%2bcotton%2bclub)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a41b676b6e94a277aeab2e7deb889358.jpg' width='16%' height='16%' alt='Nicki Parrott - Angel Eyes'>](https://www.last.fm/music/nicki%2bparrott/angel%2beyes)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/246e63c6b14548919d6efe2f44208fe0.jpg' width='16%' height='16%' alt='Lynne Arriale Trio - Lynne Arriale Trio Live'>](https://www.last.fm/music/lynne%2barriale%2btrio/lynne%2barriale%2btrio%2blive)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/51e523f8798045359c418b517bdfd69c.jpg' width='16%' height='16%' alt='Nicki Parrott - Black Coffee'>](https://www.last.fm/music/nicki%2bparrott/black%2bcoffee)&nbsp;
