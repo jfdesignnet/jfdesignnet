@@ -9,8 +9,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0a8cd361d4aea47eda60d0ea4c122801.jpg' width='16%' height='16%' alt='Lisa Wahlandt - Stay A While'>](https://www.last.fm/music/lisa%2bwahlandt/stay%2ba%2bwhile)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a212cd5954433e47ba350a4a3fa22d97.jpg' width='16%' height='16%' alt='Diana Krall - Glad Rag Doll (Deluxe Edition)'>](https://www.last.fm/music/diana%2bkrall/glad%2brag%2bdoll%2b%2528deluxe%2bedition%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ba3f68c7b0dd1c09cd20145049af2836.jpg' width='16%' height='16%' alt='Halie Loren - LIVE AT COTTON CLUB'>](https://www.last.fm/music/halie%2bloren/live%2bat%2bcotton%2bclub)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/18badcd2f84688bf1f8ccbcf46094bf5.jpg' width='16%' height='16%' alt='Lynne Arriale Trio - Chimes of Freedom'>](https://www.last.fm/music/lynne%2barriale%2btrio/chimes%2bof%2bfreedom)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b7606da1b1e234364617f9bc6e8393c0.png' width='16%' height='16%' alt='Lyn Stanley - Live at Studio A'>](https://www.last.fm/music/lyn%2bstanley/live%2bat%2bstudio%2ba)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2e85099c6e934523c5b8acc9438f0d80.jpg' width='16%' height='16%' alt='Rebekka Bakken - Little Drop of Poison'>](https://www.last.fm/music/rebekka%2bbakken/little%2bdrop%2bof%2bpoison)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7dc37636eace6c782a685a047c92c9d7.png' width='16%' height='16%' alt='綾戸智絵 - BEST II'>](https://www.last.fm/music/%25e7%25b6%25be%25e6%2588%25b8%25e6%2599%25ba%25e7%25b5%25b5/best%2bii)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fcea6a89063b71fe3fbd6bee6b1732eb.jpg' width='16%' height='16%' alt='Stacey Kent - Songs From Other Places (Special Edition)'>](https://www.last.fm/music/stacey%2bkent/songs%2bfrom%2bother%2bplaces%2b%2528special%2bedition%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/34ebc6013c4455a1488027fc694b18cd.jpg' width='16%' height='16%' alt='Nicki Parrott - Great 70s'>](https://www.last.fm/music/nicki%2bparrott/great%2b70%2527s)&nbsp;
 <br>
