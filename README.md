@@ -11,6 +11,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ffc7708656e6effa7cec1c761ee67ea2.jpg' width='16%' height='16%' alt='Kamelot - Haven (Deluxe Version)'>](https://www.last.fm/music/kamelot/haven%2b%2528deluxe%2bversion%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/12842bb6641dcff827cb25b4649a0fdb.png' width='16%' height='16%' alt='Leaves Eyes - The Last Viking'>](https://www.last.fm/music/leaves%2527%2beyes/the%2blast%2bviking)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/064994f8157e4cd794128738f9a5205e.png' width='16%' height='16%' alt='After Forever - Decipher: The Album - The Sessions'>](https://www.last.fm/music/after%2bforever/decipher%253a%2bthe%2balbum%2b-%2bthe%2bsessions)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d3aaad8bc8b243eec3611d4a6c5fc7d4.png' width='16%' height='16%' alt='Xandria - Sacrificium'>](https://www.last.fm/music/xandria/sacrificium)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/643946fe6a9cd3a62ce857d44eb6b501.png' width='16%' height='16%' alt='Nightwish - Decades: Live in Buenos Aires'>](https://www.last.fm/music/nightwish/decades%253a%2blive%2bin%2bbuenos%2baires)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a02fcc2745811e144ca1ef460c750835.jpg' width='16%' height='16%' alt='Edenbridge - The Chronicles of Eden Part 2'>](https://www.last.fm/music/edenbridge/the%2bchronicles%2bof%2beden%2bpart%2b2)&nbsp;
 <br>
