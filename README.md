@@ -9,8 +9,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/eef35303d12f82e3d18872b9f693b3de.jpg' width='16%' height='16%' alt='Epica - The Classical Conspiracy (Live in Miskolc)'>](https://www.last.fm/music/epica/the%2bclassical%2bconspiracy%2b%2528live%2bin%2bmiskolc%2529)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ffc7708656e6effa7cec1c761ee67ea2.jpg' width='16%' height='16%' alt='Kamelot - Haven (Deluxe Version)'>](https://www.last.fm/music/kamelot/haven%2b%2528deluxe%2bversion%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d3aaad8bc8b243eec3611d4a6c5fc7d4.png' width='16%' height='16%' alt='Xandria - Sacrificium'>](https://www.last.fm/music/xandria/sacrificium)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a02fcc2745811e144ca1ef460c750835.jpg' width='16%' height='16%' alt='Edenbridge - The Chronicles of Eden Part 2'>](https://www.last.fm/music/edenbridge/the%2bchronicles%2bof%2beden%2bpart%2b2)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cbba99542fd2476ac7210e7bb40bfad5.jpg' width='16%' height='16%' alt='Within Temptation - Let Us Burn: Elements & Hydra Live in Concert'>](https://www.last.fm/music/within%2btemptation/let%2bus%2bburn%253a%2belements%2b%2526%2bhydra%2blive%2bin%2bconcert)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3a78d6716d2e7b14ad91d42142afabab.jpg' width='16%' height='16%' alt='Therion - 20th Anniversary Show (Live in Budapest 2007)'>](https://www.last.fm/music/therion/20th%2banniversary%2bshow%2b%2528live%2bin%2bbudapest%2b2007%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3b21495764846227e3e05cf09deffbb0.jpg' width='16%' height='16%' alt='Within Temptation - Resist (Extended Deluxe)'>](https://www.last.fm/music/within%2btemptation/resist%2b%2528extended%2bdeluxe%2529)&nbsp;
 <br>
