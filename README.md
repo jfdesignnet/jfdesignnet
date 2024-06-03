@@ -10,7 +10,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/eef35303d12f82e3d18872b9f693b3de.jpg' width='16%' height='16%' alt='Epica - The Classical Conspiracy (Live in Miskolc)'>](https://www.last.fm/music/epica/the%2bclassical%2bconspiracy%2b%2528live%2bin%2bmiskolc%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ffc7708656e6effa7cec1c761ee67ea2.jpg' width='16%' height='16%' alt='Kamelot - Haven (Deluxe Version)'>](https://www.last.fm/music/kamelot/haven%2b%2528deluxe%2bversion%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/84a6610777e54bfbbb28beb52d9432ee.jpg' width='16%' height='16%' alt='Lisa Wahlandt - Wowowonder'>](https://www.last.fm/music/lisa%2bwahlandt/wowowonder)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2f1cfb69028a421dba07c4946feee86b.png' width='16%' height='16%' alt='Nightwish - Imaginaerum (The Score)'>](https://www.last.fm/music/nightwish/imaginaerum%2b%2528the%2bscore%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3a78d6716d2e7b14ad91d42142afabab.jpg' width='16%' height='16%' alt='Therion - 20th Anniversary Show (Live in Budapest 2007)'>](https://www.last.fm/music/therion/20th%2banniversary%2bshow%2b%2528live%2bin%2bbudapest%2b2007%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/073487e3015fd18b5d950bbcbfc11763.jpg' width='16%' height='16%' alt='Edenbridge - Shangri-La'>](https://www.last.fm/music/edenbridge/shangri-la)&nbsp;
 <br>
