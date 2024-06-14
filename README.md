@@ -8,9 +8,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fe475caf14e08437d8704e0da9f0e52d.jpg' width='16%' height='16%' alt='Bill Evans - Late Night Bill Evans'>](https://www.last.fm/music/bill%2bevans/late%2bnight%2bbill%2bevans)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ac19172600395aa4452b6fe12e66cece.jpg' width='16%' height='16%' alt='Nancy LaMott - Ask Me Again'>](https://www.last.fm/music/nancy%2blamott/ask%2bme%2bagain)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/38bebf4e2e107deab3cbf032dbffe0c9.jpg' width='16%' height='16%' alt='Peter Gundry - The Witching Hour'>](https://www.last.fm/music/peter%2bgundry/the%2bwitching%2bhour)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/09229eaa4d3d4e3d9432c0473578c093.jpg' width='16%' height='16%' alt='Kathryn Toyama - Hope For Harmony'>](https://www.last.fm/music/kathryn%2btoyama/hope%2bfor%2bharmony)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ba3f68c7b0dd1c09cd20145049af2836.jpg' width='16%' height='16%' alt='Halie Loren - LIVE AT COTTON CLUB'>](https://www.last.fm/music/halie%2bloren/live%2bat%2bcotton%2bclub)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b3bd3212a49745cec55490a4c4905d1d.jpg' width='16%' height='16%' alt='Janie Becker - HeartSong Ireland'>](https://www.last.fm/music/janie%2bbecker/heartsong%2bireland)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2e85099c6e934523c5b8acc9438f0d80.jpg' width='16%' height='16%' alt='Rebekka Bakken - Little Drop of Poison'>](https://www.last.fm/music/rebekka%2bbakken/little%2bdrop%2bof%2bpoison)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5c4fbc02e7cc562370cbe19658b0feeb.jpg' width='16%' height='16%' alt='Lynn Yew Evers - Sunset Breeze'>](https://www.last.fm/music/lynn%2byew%2bevers/sunset%2bbreeze)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a3437d5d116e4faecf7685bed7eccba3.jpg' width='16%' height='16%' alt='Halie Loren - THE BEST COLLECTION'>](https://www.last.fm/music/halie%2bloren/the%2bbest%2bcollection)&nbsp;
 <br>
