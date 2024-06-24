@@ -9,8 +9,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/39e21199df494aabb64109a668e9bba6.png' width='16%' height='16%' alt='Diana Krall - The Very Best Of Diana Krall'>](https://www.last.fm/music/diana%2bkrall/the%2bvery%2bbest%2bof%2bdiana%2bkrall)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/12842bb6641dcff827cb25b4649a0fdb.png' width='16%' height='16%' alt='Leaves Eyes - The Last Viking'>](https://www.last.fm/music/leaves%2527%2beyes/the%2blast%2bviking)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ffc7708656e6effa7cec1c761ee67ea2.jpg' width='16%' height='16%' alt='Kamelot - Haven (Deluxe Version)'>](https://www.last.fm/music/kamelot/haven%2b%2528deluxe%2bversion%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b4da996d84ca088e71c52f6c84dba606.jpg' width='16%' height='16%' alt='Kamelot - The Shadow Theory (Deluxe Bonus Version)'>](https://www.last.fm/music/kamelot/the%2bshadow%2btheory%2b%2528deluxe%2bbonus%2bversion%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f83764a557d2d4f94cc273c614fb279d.jpg' width='16%' height='16%' alt='Ana Popovic - Trilogy (Full Album)'>](https://www.last.fm/music/ana%2bpopovic/trilogy%2b%2528full%2balbum%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5a8b94799618838954b509107da0fd6a.png' width='16%' height='16%' alt='Delain - Moonbathers'>](https://www.last.fm/music/delain/moonbathers)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/38d9292ed49051d87fc5d030a8bad0cd.jpg' width='16%' height='16%' alt='Ana Popovic - Live for Live'>](https://www.last.fm/music/ana%2bpopovic/live%2bfor%2blive)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/90e24202fcd9104751423e9a3e46038d.jpg' width='16%' height='16%' alt='Diana Krall - Wallflower (The Complete Sessions)'>](https://www.last.fm/music/diana%2bkrall/wallflower%2b%2528the%2bcomplete%2bsessions%2529)&nbsp;
 <br>
