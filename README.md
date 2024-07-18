@@ -10,7 +10,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/623874e62efd6244b450eb662363282c.jpg' width='16%' height='16%' alt='Feuerschwanz - Fegefeuer (Deluxe Version)'>](https://www.last.fm/music/feuerschwanz/fegefeuer%2b%2528deluxe%2bversion%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d8b20dd32e9a9f88d2b2002214a06efc.jpg' width='16%' height='16%' alt='Moonlight Haze - De Rerum Natura'>](https://www.last.fm/music/moonlight%2bhaze/de%2brerum%2bnatura)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d3aaad8bc8b243eec3611d4a6c5fc7d4.png' width='16%' height='16%' alt='Xandria - Sacrificium'>](https://www.last.fm/music/xandria/sacrificium)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/69e384c5c9be75f8699edb852e6de743.jpg' width='16%' height='16%' alt='Faun - Pagan'>](https://www.last.fm/music/faun/pagan)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3a78d6716d2e7b14ad91d42142afabab.jpg' width='16%' height='16%' alt='Therion - 20th Anniversary Show (Live in Budapest 2007)'>](https://www.last.fm/music/therion/20th%2banniversary%2bshow%2b%2528live%2bin%2bbudapest%2b2007%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a41c7c34440e9a1e2f3f1b9f9e4d3b37.jpg' width='16%' height='16%' alt='Wolfenmond - Wintersturm'>](https://www.last.fm/music/wolfenmond/wintersturm)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fd4edb4f26a2a45481da5b2fb47455d4.jpg' width='16%' height='16%' alt='Faun - Luna (& Live und Acoustic in Berlin)'>](https://www.last.fm/music/faun/luna%2b%2528%2526%2blive%2bund%2bacoustic%2bin%2bberlin%2529)&nbsp;
 <br>
