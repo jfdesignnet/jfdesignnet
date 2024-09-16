@@ -8,8 +8,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ac19172600395aa4452b6fe12e66cece.jpg' width='16%' height='16%' alt='Nancy LaMott - Ask Me Again'>](https://www.last.fm/music/nancy%2blamott/ask%2bme%2bagain)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/90e24202fcd9104751423e9a3e46038d.jpg' width='16%' height='16%' alt='Diana Krall - Wallflower (The Complete Sessions)'>](https://www.last.fm/music/diana%2bkrall/wallflower%2b%2528the%2bcomplete%2bsessions%2529)&nbsp;
 <br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9128f83eb6b97c4e8882673aa2b45874.jpg' width='16%' height='16%' alt='Kyla Brox - Live... At Last'>](https://www.last.fm/music/kyla%2bbrox/live...%2bat%2blast)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/18badcd2f84688bf1f8ccbcf46094bf5.jpg' width='16%' height='16%' alt='Lynne Arriale Trio - Chimes of Freedom'>](https://www.last.fm/music/lynne%2barriale%2btrio/chimes%2bof%2bfreedom)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6ee403597a4bc1b5a1d73f871c544caf.jpg' width='16%' height='16%' alt='Silje Nergaard - Silje Nergaard'>](https://www.last.fm/music/silje%2bnergaard/silje%2bnergaard)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f83764a557d2d4f94cc273c614fb279d.jpg' width='16%' height='16%' alt='Ana Popovic - Trilogy (Full Album)'>](https://www.last.fm/music/ana%2bpopovic/trilogy%2b%2528full%2balbum%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/246e63c6b14548919d6efe2f44208fe0.jpg' width='16%' height='16%' alt='Lynne Arriale Trio - Lynne Arriale Trio Live'>](https://www.last.fm/music/lynne%2barriale%2btrio/lynne%2barriale%2btrio%2blive)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f36a29187bbf495bbfa1c4e93a633aa0.jpg' width='16%' height='16%' alt='Chantal Chamberland - Dripping Indigo'>](https://www.last.fm/music/chantal%2bchamberland/dripping%2bindigo)&nbsp;
