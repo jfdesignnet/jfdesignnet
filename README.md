@@ -11,6 +11,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e59b2dfcd4ad39315f119592d204e630.jpg' width='16%' height='16%' alt='Nicki Parrott - Stompin At The Savoy'>](https://www.last.fm/music/nicki%2bparrott/stompin%2527%2bat%2bthe%2bsavoy)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1bd9744bdebc34f83523b7ff4b596751.jpg' width='16%' height='16%' alt='Nicki Parrott - From New York To Paris'>](https://www.last.fm/music/nicki%2bparrott/from%2bnew%2byork%2bto%2bparis)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/39e21199df494aabb64109a668e9bba6.png' width='16%' height='16%' alt='Diana Krall - The Very Best Of Diana Krall'>](https://www.last.fm/music/diana%2bkrall/the%2bvery%2bbest%2bof%2bdiana%2bkrall)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2f16caaef794780b149de92763c3583f.jpg' width='16%' height='16%' alt='Jeremy Siskind - Songs of Rebirth'>](https://www.last.fm/music/jeremy%2bsiskind/songs%2bof%2brebirth)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f83764a557d2d4f94cc273c614fb279d.jpg' width='16%' height='16%' alt='Ana Popovic - Trilogy (Full Album)'>](https://www.last.fm/music/ana%2bpopovic/trilogy%2b%2528full%2balbum%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b96429822b40dfdb2fb6e8b98b7b8c70.jpg' width='16%' height='16%' alt='Nicki Parrott - Papa Loves Mambo'>](https://www.last.fm/music/nicki%2bparrott/papa%2bloves%2bmambo)&nbsp;
 <br>
