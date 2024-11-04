@@ -6,11 +6,11 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/01e9370e5271fb039110cf99d1553558.jpg' width='16%' height='16%' alt='Stacey Kent - Its A Wonderful World'>](https://www.last.fm/music/stacey%2bkent/it%2527s%2ba%2bwonderful%2bworld)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/39e21199df494aabb64109a668e9bba6.png' width='16%' height='16%' alt='Diana Krall - The Very Best Of Diana Krall'>](https://www.last.fm/music/diana%2bkrall/the%2bvery%2bbest%2bof%2bdiana%2bkrall)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/623874e62efd6244b450eb662363282c.jpg' width='16%' height='16%' alt='Feuerschwanz - Fegefeuer (Deluxe Version)'>](https://www.last.fm/music/feuerschwanz/fegefeuer%2b%2528deluxe%2bversion%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/53427f717a5b49c5b8e71a90a59f4cb9.jpg' width='16%' height='16%' alt='Wolfenmond - Flammenspiel & Schattenklang'>](https://www.last.fm/music/wolfenmond/flammenspiel%2b%2526%2bschattenklang)&nbsp;
-<br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6ee403597a4bc1b5a1d73f871c544caf.jpg' width='16%' height='16%' alt='Silje Nergaard - Silje Nergaard'>](https://www.last.fm/music/silje%2bnergaard/silje%2bnergaard)&nbsp;
+<br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8fb39c2f970607cc87b3cc8ea334b47a.jpg' width='16%' height='16%' alt='Eluveitie - Slania (10 Years)'>](https://www.last.fm/music/eluveitie/slania%2b%252810%2byears%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f36a29187bbf495bbfa1c4e93a633aa0.jpg' width='16%' height='16%' alt='Chantal Chamberland - Dripping Indigo'>](https://www.last.fm/music/chantal%2bchamberland/dripping%2bindigo)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/90e24202fcd9104751423e9a3e46038d.jpg' width='16%' height='16%' alt='Diana Krall - Wallflower (The Complete Sessions)'>](https://www.last.fm/music/diana%2bkrall/wallflower%2b%2528the%2bcomplete%2bsessions%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4fd922677368126320f54c98a4eda36c.jpg' width='16%' height='16%' alt='Eivør - Live in Tórshavn'>](https://www.last.fm/music/eiv%25c3%25b8r/live%2bin%2bt%25c3%25b3rshavn)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2e85099c6e934523c5b8acc9438f0d80.jpg' width='16%' height='16%' alt='Rebekka Bakken - Little Drop of Poison'>](https://www.last.fm/music/rebekka%2bbakken/little%2bdrop%2bof%2bpoison)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/18badcd2f84688bf1f8ccbcf46094bf5.jpg' width='16%' height='16%' alt='Lynne Arriale Trio - Chimes of Freedom'>](https://www.last.fm/music/lynne%2barriale%2btrio/chimes%2bof%2bfreedom)&nbsp;
 <br>
