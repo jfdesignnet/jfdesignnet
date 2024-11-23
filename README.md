@@ -11,6 +11,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a02fcc2745811e144ca1ef460c750835.jpg' width='16%' height='16%' alt='Edenbridge - The Chronicles of Eden Part 2'>](https://www.last.fm/music/edenbridge/the%2bchronicles%2bof%2beden%2bpart%2b2)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ecdba24981887896e37989b2c449d441.jpg' width='16%' height='16%' alt='Nightwish - Endless Forms Most Beautiful (Deluxe Version)'>](https://www.last.fm/music/nightwish/endless%2bforms%2bmost%2bbeautiful%2b%2528deluxe%2bversion%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/49035cb6be46c336ca2c301ea07903a7.png' width='16%' height='16%' alt='Nightwish - Decades'>](https://www.last.fm/music/nightwish/decades)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2e34fdb6a4fc73fbf47fb46e8f90eaeb.jpg' width='16%' height='16%' alt='Saule Kilaite - Christmas Violin'>](https://www.last.fm/music/saule%2bkilaite/christmas%2bviolin)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ffc7708656e6effa7cec1c761ee67ea2.jpg' width='16%' height='16%' alt='Kamelot - Haven (Deluxe Version)'>](https://www.last.fm/music/kamelot/haven%2b%2528deluxe%2bversion%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/12842bb6641dcff827cb25b4649a0fdb.png' width='16%' height='16%' alt='Leaves Eyes - The Last Viking'>](https://www.last.fm/music/leaves%2527%2beyes/the%2blast%2bviking)&nbsp;
 <br>
