@@ -10,7 +10,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8b114f82a2b145e69fc1fba5711157e7.jpg' width='16%' height='16%' alt='Nancy LaMott - Just In Time For Christmas'>](https://www.last.fm/music/nancy%2blamott/just%2bin%2btime%2bfor%2bchristmas)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cd0305b85c195a8a110ceb2bcfdacf19.jpg' width='16%' height='16%' alt='Rebekka Bakken - Winter Nights'>](https://www.last.fm/music/rebekka%2bbakken/winter%2bnights)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c9e42b9f5b63d578b8e22b8cddcda15d.jpg' width='16%' height='16%' alt='Melody Gardot - The Essential Melody Gardot'>](https://www.last.fm/music/melody%2bgardot/the%2bessential%2bmelody%2bgardot)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ac19172600395aa4452b6fe12e66cece.jpg' width='16%' height='16%' alt='Nancy LaMott - Ask Me Again'>](https://www.last.fm/music/nancy%2blamott/ask%2bme%2bagain)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/11590b7e0b2b1cf780334cfb6f2682af.png' width='16%' height='16%' alt='Nightwish - Yesterwynde'>](https://www.last.fm/music/nightwish/yesterwynde)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2d3a1f3018a74acdca1341a9903c4007.png' width='16%' height='16%' alt='Epica - The Phantom Agony (Expanded Edition)'>](https://www.last.fm/music/epica/the%2bphantom%2bagony%2b%2528expanded%2bedition%2529)&nbsp;
 <br>
