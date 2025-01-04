@@ -2,15 +2,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/jfdesignnet) in the last week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/38d9292ed49051d87fc5d030a8bad0cd.jpg' width='16%' height='16%' alt='Ana Popovic - Live for Live'>](https://www.last.fm/music/ana%2bpopovic/live%2bfor%2blive)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f83764a557d2d4f94cc273c614fb279d.jpg' width='16%' height='16%' alt='Ana Popovic - Trilogy (Full Album)'>](https://www.last.fm/music/ana%2bpopovic/trilogy%2b%2528full%2balbum%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9eac63027ae2e589f2123b44af268a2a.jpg' width='16%' height='16%' alt='Samantha Fish - Faster'>](https://www.last.fm/music/samantha%2bfish/faster)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0a00376b39654cd3cc4ddbffa7c140a0.png' width='16%' height='16%' alt='Gary Moore - Still Got the Blues'>](https://www.last.fm/music/gary%2bmoore/still%2bgot%2bthe%2bblues)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1e16341ee3d743b481005a4357554b32.jpg' width='16%' height='16%' alt='Samantha Fish - Black Wind Howlin'>](https://www.last.fm/music/samantha%2bfish/black%2bwind%2bhowlin%2527)&nbsp;
-<br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3a1124af2702b8eda6a65efaf58f78d0.jpg' width='16%' height='16%' alt='Samantha Fish - Kill Or Be Kind'>](https://www.last.fm/music/samantha%2bfish/kill%2bor%2bbe%2bkind)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/40afe32a869b1d2bec060e389b70bd94.jpg' width='16%' height='16%' alt='Samantha Fish - Belle of the West'>](https://www.last.fm/music/samantha%2bfish/belle%2bof%2bthe%2bwest)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f3d022672ccb56d1c4174330f043b8eb.jpg' width='16%' height='16%' alt='Carolyn Wonderland - Live Texas Trio'>](https://www.last.fm/music/carolyn%2bwonderland/live%2btexas%2btrio)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0f1c20053fdc29a982c02e7bdaa46eba.jpg' width='16%' height='16%' alt='Ana Popovic - Like It on Top'>](https://www.last.fm/music/ana%2bpopovic/like%2bit%2bon%2btop)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6d3e58f27b39d85ba6e9be1872f96273.jpg' width='16%' height='16%' alt='Térez Montcalm - Voodoo'>](https://www.last.fm/music/t%25c3%25a9rez%2bmontcalm/voodoo)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c9e42b9f5b63d578b8e22b8cddcda15d.jpg' width='16%' height='16%' alt='Melody Gardot - The Essential Melody Gardot'>](https://www.last.fm/music/melody%2bgardot/the%2bessential%2bmelody%2bgardot)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ba3f68c7b0dd1c09cd20145049af2836.jpg' width='16%' height='16%' alt='Halie Loren - LIVE AT COTTON CLUB'>](https://www.last.fm/music/halie%2bloren/live%2bat%2bcotton%2bclub)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3682b0e036754433c44228df0e8624ec.jpg' width='16%' height='16%' alt='Halie Loren - After Dark'>](https://www.last.fm/music/halie%2bloren/after%2bdark)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a3437d5d116e4faecf7685bed7eccba3.jpg' width='16%' height='16%' alt='Halie Loren - THE BEST COLLECTION'>](https://www.last.fm/music/halie%2bloren/the%2bbest%2bcollection)&nbsp;
+<br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0f23ad3e55d64a9eca9e542d9af9184c.jpg' width='16%' height='16%' alt='Halie Loren - They Oughta Write a Song'>](https://www.last.fm/music/halie%2bloren/they%2boughta%2bwrite%2ba%2bsong)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b7606da1b1e234364617f9bc6e8393c0.png' width='16%' height='16%' alt='Lyn Stanley - Live at Studio A'>](https://www.last.fm/music/lyn%2bstanley/live%2bat%2bstudio%2ba)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/75a1e5e0738f9a03698dcc1cfdf9a142.png' width='16%' height='16%' alt='Lyn Stanley - London Calling: A Toast to Julie London'>](https://www.last.fm/music/lyn%2bstanley/london%2bcalling%253a%2ba%2btoast%2bto%2bjulie%2blondon)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/608ab3cfd2a11e15ac2aa73bfe161849.jpg' width='16%' height='16%' alt='Halie Loren - Dreams Lost And Found'>](https://www.last.fm/music/halie%2bloren/dreams%2blost%2band%2bfound)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e148b83e3a0449f7c993f58d6eb07076.jpg' width='16%' height='16%' alt='Halie Loren - Heart First'>](https://www.last.fm/music/halie%2bloren/heart%2bfirst)&nbsp;
 <br>
