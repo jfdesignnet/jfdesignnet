@@ -12,5 +12,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/797952b38d240aaddfb64e064e7b5ef4.jpg' width='16%' height='16%' alt='Epica - The Holographic Principle'>](https://www.last.fm/music/epica/the%2bholographic%2bprinciple)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/84d08ba97fe44de6cd24cb7c0826fc1d.png' width='16%' height='16%' alt='Nightwish - Highest Hopes-The Best Of Nightwish'>](https://www.last.fm/music/nightwish/highest%2bhopes-the%2bbest%2bof%2bnightwish)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4cd13f2ea6c2463cc63b805770add078.png' width='16%' height='16%' alt='Epica - Design Your Universe'>](https://www.last.fm/music/epica/design%2byour%2buniverse)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/96c257f9b8c3bf3baec2b52fa02dc8d2.jpg' width='16%' height='16%' alt='Lisa Hilton - Cocktails At Eight...'>](https://www.last.fm/music/lisa%2bhilton/cocktails%2bat%2beight...)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3b21495764846227e3e05cf09deffbb0.jpg' width='16%' height='16%' alt='Within Temptation - Resist (Extended Deluxe)'>](https://www.last.fm/music/within%2btemptation/resist%2b%2528extended%2bdeluxe%2529)&nbsp;
 <br>
