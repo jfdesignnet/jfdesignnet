@@ -4,13 +4,13 @@
 
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/333451d6ab4cad1497f77b967614d98f.jpg' width='16%' height='16%' alt='Joanne Shaw Taylor - Blues From the Heart Live (Live)'>](https://www.last.fm/music/joanne%2bshaw%2btaylor/blues%2bfrom%2bthe%2bheart%2blive%2b%2528live%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/49a07efd29dae515cdfb2b5b0ebcf5de.jpg' width='16%' height='16%' alt='Joss Stone - Your Remixes of Water For Your Soul'>](https://www.last.fm/music/joss%2bstone/your%2bremixes%2bof%2bwater%2bfor%2byour%2bsoul)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/33c2a69c0765025b7443303136ce369b.jpg' width='16%' height='16%' alt='Heather Newman - Rise From the Flames'>](https://www.last.fm/music/heather%2bnewman/rise%2bfrom%2bthe%2bflames)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/270041fc64e61d78f214278ef1f4e542.jpg' width='16%' height='16%' alt='Danielle Nicole - Wolf Den'>](https://www.last.fm/music/danielle%2bnicole/wolf%2bden)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0835048a6d9ec096c2ec8e652dfe2e4e.jpg' width='16%' height='16%' alt='Diana Krall - This Dream Of You'>](https://www.last.fm/music/diana%2bkrall/this%2bdream%2bof%2byou)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/51e523f8798045359c418b517bdfd69c.jpg' width='16%' height='16%' alt='Nicki Parrott - Black Coffee'>](https://www.last.fm/music/nicki%2bparrott/black%2bcoffee)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3aa1d921f6f39b46a6a0de600cac0c35.jpg' width='16%' height='16%' alt='Nicki Parrott - Angel Eyes'>](https://www.last.fm/music/nicki%2bparrott/angel%2beyes)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d656d5be4fbd42aa90d941f3836465fd.jpg' width='16%' height='16%' alt='Nicki Parrott - Autumn Leaves'>](https://www.last.fm/music/nicki%2bparrott/autumn%2bleaves)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/885de9a564fcb18c9c87b003e745e387.jpg' width='16%' height='16%' alt='Heather Newman - Burn Me Alive'>](https://www.last.fm/music/heather%2bnewman/burn%2bme%2balive)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b356d490b4f64b18a7f44ce23be3f44a.jpg' width='16%' height='16%' alt='Joss Stone - The Soul Sessions, Vol. 2 (Deluxe Edition)'>](https://www.last.fm/music/joss%2bstone/the%2bsoul%2bsessions%252c%2bvol.%2b2%2b%2528deluxe%2bedition%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2713d5c9be7ab9828ce6fb32ac1c9a21.jpg' width='16%' height='16%' alt='Danielle Nicole - Cry No More'>](https://www.last.fm/music/danielle%2bnicole/cry%2bno%2bmore)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9bedf376ee1568c7d40c27bdfd8851dc.jpg' width='16%' height='16%' alt='Diana Krall - Turn Up The Quiet'>](https://www.last.fm/music/diana%2bkrall/turn%2bup%2bthe%2bquiet)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/eb5b1aef7dc75889ee18c960027aded3.jpg' width='16%' height='16%' alt='Joanne Shaw Taylor - Nobodys Fool'>](https://www.last.fm/music/joanne%2bshaw%2btaylor/nobody%2527s%2bfool)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c4be0d50bd6cdd048d489caf45a23dc0.jpg' width='16%' height='16%' alt='Diana Krall - From This Moment On (Expanded Edition)'>](https://www.last.fm/music/diana%2bkrall/from%2bthis%2bmoment%2bon%2b%2528expanded%2bedition%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/da557bafd2f349419962be3cf06318a3.png' width='16%' height='16%' alt='Diana Krall - Glad Rag Doll'>](https://www.last.fm/music/diana%2bkrall/glad%2brag%2bdoll)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/001594176ecf4c75b26f3bebdb7de7bf.png' width='16%' height='16%' alt='Diana Krall - Quiet Nights'>](https://www.last.fm/music/diana%2bkrall/quiet%2bnights)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/64c510b08bc133de30589d3c05406866.jpg' width='16%' height='16%' alt='Diana Krall - Stepping Out (Remastered)'>](https://www.last.fm/music/diana%2bkrall/stepping%2bout%2b%2528remastered%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/33c2a69c0765025b7443303136ce369b.jpg' width='16%' height='16%' alt='Heather Newman - Rise From the Flames'>](https://www.last.fm/music/heather%2bnewman/rise%2bfrom%2bthe%2bflames)&nbsp;
 <br>
