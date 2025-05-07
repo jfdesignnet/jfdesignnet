@@ -92,6 +92,9 @@ def parse_args():
     parser.set_defaults(disable_cache=False)
     args = parser.parse_args()
 
+    if args.columns is None:
+        args.columns = args.rows
+
     logging.basicConfig(level=args.loglevel, format=format)
     return args
 
