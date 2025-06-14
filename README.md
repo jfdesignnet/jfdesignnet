@@ -9,8 +9,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/84a6610777e54bfbbb28beb52d9432ee.jpg' width='16%' height='16%' alt='Lisa Wahlandt - Wowowonder'>](https://www.last.fm/music/lisa%2bwahlandt/wowowonder)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b32f74c2ba024cf9b3f9d1d282857fd3.jpg' width='16%' height='16%' alt='Melissa Errico - Legrand Affair'>](https://www.last.fm/music/melissa%2berrico/legrand%2baffair)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fd4edb4f26a2a45481da5b2fb47455d4.jpg' width='16%' height='16%' alt='Faun - Luna (& Live und Acoustic in Berlin)'>](https://www.last.fm/music/faun/luna%2b%2528%2526%2blive%2bund%2bacoustic%2bin%2bberlin%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4cb1fee9c61fedb5bf8ded0e9e4cbc67.jpg' width='16%' height='16%' alt='Melissa Errico - Sondheim Sublime'>](https://www.last.fm/music/melissa%2berrico/sondheim%2bsublime)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/29aa79d0da55bdf5b1c7229ffbd13689.jpg' width='16%' height='16%' alt='Faun - Midgard (Tour Edition)'>](https://www.last.fm/music/faun/midgard%2b%2528tour%2bedition%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0542c24701025c5c0f919efd0d881ad5.jpg' width='16%' height='16%' alt='Svetlana - Night at the Movies'>](https://www.last.fm/music/svetlana/night%2bat%2bthe%2bmovies)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fb70cc8ceb8b4e509074c41884581483.jpg' width='16%' height='16%' alt='Vanessa Rubin - The Dream Is You: Vanessa Rubin Sings Tadd Dameron'>](https://www.last.fm/music/vanessa%2brubin/the%2bdream%2bis%2byou%253a%2bvanessa%2brubin%2bsings%2btadd%2bdameron)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2eb9f625e705b9e53b11ebbd5d6896c9.jpg' width='16%' height='16%' alt='Petra van Nuis - Lessons Lyrical'>](https://www.last.fm/music/petra%2bvan%2bnuis/lessons%2blyrical)&nbsp;
 <br>
