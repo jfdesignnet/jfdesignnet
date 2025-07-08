@@ -8,9 +8,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/064994f8157e4cd794128738f9a5205e.png' width='16%' height='16%' alt='After Forever - Decipher: The Album - The Sessions'>](https://www.last.fm/music/after%2bforever/decipher%253a%2bthe%2balbum%2b-%2bthe%2bsessions)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1e49f3a3452c4e80a427d5a1ac17ef12.png' width='16%' height='16%' alt='Laura Osnes - Dream a Little Dream - Live At the Cafe Carlyle'>](https://www.last.fm/music/laura%2bosnes/dream%2ba%2blittle%2bdream%2b-%2blive%2bat%2bthe%2bcafe%2bcarlyle)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f83764a557d2d4f94cc273c614fb279d.jpg' width='16%' height='16%' alt='Ana Popovic - Trilogy (Full Album)'>](https://www.last.fm/music/ana%2bpopovic/trilogy%2b%2528full%2balbum%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/eef35303d12f82e3d18872b9f693b3de.jpg' width='16%' height='16%' alt='Epica - The Classical Conspiracy (Live in Miskolc)'>](https://www.last.fm/music/epica/the%2bclassical%2bconspiracy%2b%2528live%2bin%2bmiskolc%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/073487e3015fd18b5d950bbcbfc11763.jpg' width='16%' height='16%' alt='Edenbridge - Shangri-La'>](https://www.last.fm/music/edenbridge/shangri-la)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/44de6daa9294e88806f0ce18919e2fcd.png' width='16%' height='16%' alt='Nightwish - Decades'>](https://www.last.fm/music/nightwish/decades)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cbba99542fd2476ac7210e7bb40bfad5.jpg' width='16%' height='16%' alt='Within Temptation - Let Us Burn: Elements & Hydra Live in Concert'>](https://www.last.fm/music/within%2btemptation/let%2bus%2bburn%253a%2belements%2b%2526%2bhydra%2blive%2bin%2bconcert)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ffc7708656e6effa7cec1c761ee67ea2.jpg' width='16%' height='16%' alt='Kamelot - Haven (Deluxe Version)'>](https://www.last.fm/music/kamelot/haven%2b%2528deluxe%2bversion%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3a78d6716d2e7b14ad91d42142afabab.jpg' width='16%' height='16%' alt='Therion - 20th Anniversary Show (Live in Budapest 2007)'>](https://www.last.fm/music/therion/20th%2banniversary%2bshow%2b%2528live%2bin%2bbudapest%2b2007%2529)&nbsp;
 <br>
