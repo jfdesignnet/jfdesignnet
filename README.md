@@ -2,15 +2,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/jfdesignnet) in the last week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/29aa79d0da55bdf5b1c7229ffbd13689.jpg' width='16%' height='16%' alt='Faun - Midgard (Tour Edition)'>](https://www.last.fm/music/faun/midgard%2b%2528tour%2bedition%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/036d251b8b36f9255cd0c065b390b25e.png' width='16%' height='16%' alt='Eivør - Segl Live in Concert (Live at Nordic House, Faroe Islands, Sep 2020)'>](https://www.last.fm/music/eiv%25c3%25b8r/segl%2blive%2bin%2bconcert%2b%2528live%2bat%2bnordic%2bhouse%252c%2bfaroe%2bislands%252c%2bsep%2b2020%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c3f54d8b1b5ae397770a9364696f8304.jpg' width='16%' height='16%' alt='Poeta Magica - Saga'>](https://www.last.fm/music/poeta%2bmagica/saga)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4fd922677368126320f54c98a4eda36c.jpg' width='16%' height='16%' alt='Eivør - Live in Tórshavn'>](https://www.last.fm/music/eiv%25c3%25b8r/live%2bin%2bt%25c3%25b3rshavn)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fd4edb4f26a2a45481da5b2fb47455d4.jpg' width='16%' height='16%' alt='Faun - Luna (& Live und Acoustic in Berlin)'>](https://www.last.fm/music/faun/luna%2b%2528%2526%2blive%2bund%2bacoustic%2bin%2bberlin%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/38bebf4e2e107deab3cbf032dbffe0c9.jpg' width='16%' height='16%' alt='Peter Gundry - The Witching Hour'>](https://www.last.fm/music/peter%2bgundry/the%2bwitching%2bhour)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/af8ad2e2b4d5f36e22d441812852b08b.jpg' width='16%' height='16%' alt='Rúnahild - Seidrúnar'>](https://www.last.fm/music/r%25c3%25banahild/seidr%25c3%25banar)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f0a83135aef7f1cc2c9ec11a326a2024.jpg' width='16%' height='16%' alt='Peter Gundry - Aurora'>](https://www.last.fm/music/peter%2bgundry/aurora)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/33f38fa67e8ddbaa44dea1b79da46466.jpg' width='16%' height='16%' alt='Peter Gundry - Salems Heir'>](https://www.last.fm/music/peter%2bgundry/salem%2527s%2bheir)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9c1e094f718c37b3d9577ff0d0d13bbf.jpg' width='16%' height='16%' alt='Sowulo - MANN'>](https://www.last.fm/music/sowulo/mann)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/69e384c5c9be75f8699edb852e6de743.jpg' width='16%' height='16%' alt='Faun - Pagan'>](https://www.last.fm/music/faun/pagan)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a29508146575f9db162504167e3e8665.jpg' width='16%' height='16%' alt='Poeta Magica - Asgard'>](https://www.last.fm/music/poeta%2bmagica/asgard)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/53427f717a5b49c5b8e71a90a59f4cb9.jpg' width='16%' height='16%' alt='Wolfenmond - Flammenspiel & Schattenklang'>](https://www.last.fm/music/wolfenmond/flammenspiel%2b%2526%2bschattenklang)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a41c7c34440e9a1e2f3f1b9f9e4d3b37.jpg' width='16%' height='16%' alt='Wolfenmond - Wintersturm'>](https://www.last.fm/music/wolfenmond/wintersturm)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ea648e907d373d57ccf3a990d36d66a8.jpg' width='16%' height='16%' alt='Faun - Märchen & Mythen'>](https://www.last.fm/music/faun/m%25c3%25a4rchen%2b%2526%2bmythen)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ea16763cacde952b659de38f38b69528.jpg' width='16%' height='16%' alt='Peter Gundry - The Unspoken Tales'>](https://www.last.fm/music/peter%2bgundry/the%2bunspoken%2btales)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/18e8293311e03b148ef9ff0b4e68ee71.jpg' width='16%' height='16%' alt='Rúnahild - Seidsang'>](https://www.last.fm/music/r%25c3%25banahild/seidsang)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8e2bb3868d3c664d667b454d5f9a6940.jpg' width='16%' height='16%' alt='Eivør Pálsdóttir - Mannabarn'>](https://www.last.fm/music/eiv%25c3%25b8r%2bp%25c3%25a1lsd%25c3%25b3ttir/mannabarn)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c3f54d8b1b5ae397770a9364696f8304.jpg' width='16%' height='16%' alt='Poeta Magica - Saga'>](https://www.last.fm/music/poeta%2bmagica/saga)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cc0d65aaddbf41ef8fd9b73ee5e54c71.jpg' width='16%' height='16%' alt='Valravn - Koder på snor'>](https://www.last.fm/music/valravn/koder%2bp%25c3%25a5%2bsnor)&nbsp;
 <br>
