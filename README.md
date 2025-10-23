@@ -8,9 +8,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/18badcd2f84688bf1f8ccbcf46094bf5.jpg' width='16%' height='16%' alt='Lynne Arriale Trio - Chimes of Freedom'>](https://www.last.fm/music/lynne%2barriale%2btrio/chimes%2bof%2bfreedom)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fcaa745d6c645b638bc90466ef1b80d6.jpg' width='16%' height='16%' alt='Lynne Arriale Trio - The Lights Are Always On'>](https://www.last.fm/music/lynne%2barriale%2btrio/the%2blights%2bare%2balways%2bon)&nbsp;
 <br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4e0b52b333b7a25bc322d91998836c5f.jpg' width='16%' height='16%' alt='Brian Crain - Deep Focus Piano Study Playlist'>](https://www.last.fm/music/brian%2bcrain/deep%2bfocus%2bpiano%2bstudy%2bplaylist)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8d70e91e914f0e102c0d3396c3095e29.jpg' width='16%' height='16%' alt='Lynne Arriale Trio - A Long Road Home'>](https://www.last.fm/music/lynne%2barriale%2btrio/a%2blong%2broad%2bhome)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cd2d14f86387abe87f45e8bc21dbabc7.png' width='16%' height='16%' alt='Lynne Arriale Trio - Give Us These Days'>](https://www.last.fm/music/lynne%2barriale%2btrio/give%2bus%2bthese%2bdays)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1916d5994745646767db5860f7b0ddad.jpg' width='16%' height='16%' alt='Lynne Arriale Trio - Melody'>](https://www.last.fm/music/lynne%2barriale%2btrio/melody)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c6ea17678229fc5187bb6696d799dccb.jpg' width='16%' height='16%' alt='Saule Kilaite - Picasso'>](https://www.last.fm/music/saule%2bkilaite/picasso)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ecb57b0b212c1dafb1b96e445380fd4f.jpg' width='16%' height='16%' alt='Triosence - One Summer Night'>](https://www.last.fm/music/triosence/one%2bsummer%2bnight)&nbsp;
 <br>
