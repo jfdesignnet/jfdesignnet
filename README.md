@@ -2,15 +2,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/jfdesignnet) in the last week
 
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9658a1cd35c44142a111ca103e5d75f4.jpg' width='16%' height='16%' alt='Maria Callas - Maria Callas'>](https://www.last.fm/music/maria%2bcallas/maria%2bcallas)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fea282ce551c886a8897b4235b572fef.png' width='16%' height='16%' alt='Saule Kilaite - The Concert'>](https://www.last.fm/music/saule%2bkilaite/the%2bconcert)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/018826628c1fc0a8cbe248f2fb9c145d.jpg' width='16%' height='16%' alt='Gary Tunes - Midnight Blues'>](https://www.last.fm/music/gary%2btunes/midnight%2bblues)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/51f595eb609f479d0bbc8d2df6af6ac8.jpg' width='16%' height='16%' alt='Julia Hülsmann Trio - Sooner and Later'>](https://www.last.fm/music/julia%2bh%25c3%25bclsmann%2btrio/sooner%2band%2blater)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/793af1b9a8ed93c6712d74f10d1d0933.png' width='16%' height='16%' alt='Maria Callas - Maria Callas Live In Paris 1958'>](https://www.last.fm/music/maria%2bcallas/maria%2bcallas%2blive%2bin%2bparis%2b1958)&nbsp;
+<br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/746aa484080b41c58b46dd589ad88d17.jpg' width='16%' height='16%' alt='Julia Hülsmann Trio - Imprint'>](https://www.last.fm/music/julia%2bh%25c3%25bclsmann%2btrio/imprint)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/18badcd2f84688bf1f8ccbcf46094bf5.jpg' width='16%' height='16%' alt='Lynne Arriale Trio - Chimes of Freedom'>](https://www.last.fm/music/lynne%2barriale%2btrio/chimes%2bof%2bfreedom)&nbsp;
-<br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fcaa745d6c645b638bc90466ef1b80d6.jpg' width='16%' height='16%' alt='Lynne Arriale Trio - The Lights Are Always On'>](https://www.last.fm/music/lynne%2barriale%2btrio/the%2blights%2bare%2balways%2bon)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4e0b52b333b7a25bc322d91998836c5f.jpg' width='16%' height='16%' alt='Brian Crain - Deep Focus Piano Study Playlist'>](https://www.last.fm/music/brian%2bcrain/deep%2bfocus%2bpiano%2bstudy%2bplaylist)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8d70e91e914f0e102c0d3396c3095e29.jpg' width='16%' height='16%' alt='Lynne Arriale Trio - A Long Road Home'>](https://www.last.fm/music/lynne%2barriale%2btrio/a%2blong%2broad%2bhome)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cd2d14f86387abe87f45e8bc21dbabc7.png' width='16%' height='16%' alt='Lynne Arriale Trio - Give Us These Days'>](https://www.last.fm/music/lynne%2barriale%2btrio/give%2bus%2bthese%2bdays)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1916d5994745646767db5860f7b0ddad.jpg' width='16%' height='16%' alt='Lynne Arriale Trio - Melody'>](https://www.last.fm/music/lynne%2barriale%2btrio/melody)&nbsp;
 <br>
