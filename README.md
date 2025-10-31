@@ -12,5 +12,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/33f38fa67e8ddbaa44dea1b79da46466.jpg' width='16%' height='16%' alt='Peter Gundry - Salems Heir'>](https://www.last.fm/music/peter%2bgundry/salem%2527s%2bheir)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/38bebf4e2e107deab3cbf032dbffe0c9.jpg' width='16%' height='16%' alt='Peter Gundry - The Witching Hour'>](https://www.last.fm/music/peter%2bgundry/the%2bwitching%2bhour)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9c1e094f718c37b3d9577ff0d0d13bbf.jpg' width='16%' height='16%' alt='Sowulo - MANN'>](https://www.last.fm/music/sowulo/mann)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f0a83135aef7f1cc2c9ec11a326a2024.jpg' width='16%' height='16%' alt='Peter Gundry - Aurora'>](https://www.last.fm/music/peter%2bgundry/aurora)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/86359d56ee8c46cca000ae7936d46c26.png' width='16%' height='16%' alt='Diana Krall - Live In Paris'>](https://www.last.fm/music/diana%2bkrall/live%2bin%2bparis)&nbsp;
 <br>
