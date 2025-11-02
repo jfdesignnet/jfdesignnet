@@ -2,9 +2,9 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/jfdesignnet) in the last week
 
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/01e9370e5271fb039110cf99d1553558.jpg' width='16%' height='16%' alt='Stacey Kent - Its A Wonderful World'>](https://www.last.fm/music/stacey%2bkent/it%2527s%2ba%2bwonderful%2bworld)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e098554ef827bce14615e608eb954eee.jpg' width='16%' height='16%' alt='Anna Netrebko - Romanza (Deluxe Edition)'>](https://www.last.fm/music/anna%2bnetrebko/romanza%2b%2528deluxe%2bedition%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c3f54d8b1b5ae397770a9364696f8304.jpg' width='16%' height='16%' alt='Poeta Magica - Saga'>](https://www.last.fm/music/poeta%2bmagica/saga)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9658a1cd35c44142a111ca103e5d75f4.jpg' width='16%' height='16%' alt='Maria Callas - Maria Callas'>](https://www.last.fm/music/maria%2bcallas/maria%2bcallas)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/036d251b8b36f9255cd0c065b390b25e.png' width='16%' height='16%' alt='Eivør - Segl Live in Concert (Live at Nordic House, Faroe Islands, Sep 2020)'>](https://www.last.fm/music/eiv%25c3%25b8r/segl%2blive%2bin%2bconcert%2b%2528live%2bat%2bnordic%2bhouse%252c%2bfaroe%2bislands%252c%2bsep%2b2020%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a29508146575f9db162504167e3e8665.jpg' width='16%' height='16%' alt='Poeta Magica - Asgard'>](https://www.last.fm/music/poeta%2bmagica/asgard)&nbsp;
 <br>
