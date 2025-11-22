@@ -8,9 +8,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b252620e6c10c139a563e861ced88f3a.jpg' width='16%' height='16%' alt='Kenny G - The Classic Christmas Album'>](https://www.last.fm/music/kenny%2bg/the%2bclassic%2bchristmas%2balbum)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/02d966b1cde8cc8380de31565f2e4060.jpg' width='16%' height='16%' alt='Hélène Grimaud - Rachmaninoff: Sonata No. 2, Etudes-Tableaux, Op. 33 & Others'>](https://www.last.fm/music/h%25c3%25a9l%25c3%25a8ne%2bgrimaud/rachmaninoff%253a%2bsonata%2bno.%2b2%252c%2betudes-tableaux%252c%2bop.%2b33%2b%2526%2bothers)&nbsp;
 <br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bf140c1665cd99c5465fb84bcd60392f.jpg' width='16%' height='16%' alt='Sophie Milman - Make Someone Happy'>](https://www.last.fm/music/sophie%2bmilman/make%2bsomeone%2bhappy)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d2243901a5550c028bb5868dd3931192.jpg' width='16%' height='16%' alt='Sophie Milman - In the Moonlight'>](https://www.last.fm/music/sophie%2bmilman/in%2bthe%2bmoonlight)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9d608968a579485799055cd880f1da1f.png' width='16%' height='16%' alt='Sophie Milman - Take Love Easy'>](https://www.last.fm/music/sophie%2bmilman/take%2blove%2beasy)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bc417a8a203c5bbe73de4941e2dfccf8.jpg' width='16%' height='16%' alt='Hauser - Christmas'>](https://www.last.fm/music/hauser/christmas)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2b280869ef6990f49bef0fb43437ff63.jpg' width='16%' height='16%' alt='Cara Dillon - Upon a Winters Night (Deluxe)'>](https://www.last.fm/music/cara%2bdillon/upon%2ba%2bwinter%2527s%2bnight%2b%2528deluxe%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/55372904ebca7be985db7667237e4111.jpg' width='16%' height='16%' alt='Órla Fallon - A Winters Tale'>](https://www.last.fm/music/%25c3%2593rla%2bfallon/a%2bwinter%2527s%2btale)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ed355efbcc1077f3ba105d4219ef8b8c.jpg' width='16%' height='16%' alt='Triosence - scorpio rising'>](https://www.last.fm/music/triosence/scorpio%2brising)&nbsp;
 <br>
