@@ -9,8 +9,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ecd0eaa83d29414888796bcb4011f4de.jpg' width='16%' height='16%' alt='Sophie Milman - Sophie Milman'>](https://www.last.fm/music/sophie%2bmilman/sophie%2bmilman)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5e3fd92c314649b2acce371b9e7ae6e1.jpg' width='16%' height='16%' alt='Erin Boheme - What Love Is'>](https://www.last.fm/music/erin%2bboheme/what%2blove%2bis)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2713d5c9be7ab9828ce6fb32ac1c9a21.jpg' width='16%' height='16%' alt='Danielle Nicole - Cry No More'>](https://www.last.fm/music/danielle%2bnicole/cry%2bno%2bmore)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1313773904d94792b149cd651d337bf8.jpg' width='16%' height='16%' alt='Buddy Guy - The Blues Dont Lie'>](https://www.last.fm/music/buddy%2bguy/the%2bblues%2bdon%2527t%2blie)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c8db1a1b0e904b67bd94f50dea0c39c1.jpg' width='16%' height='16%' alt='Roberta Gambarini - Easy To Love'>](https://www.last.fm/music/roberta%2bgambarini/easy%2bto%2blove)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bb580eb3c528eec9a304174d06efb8d7.jpg' width='16%' height='16%' alt='Silje Nergaard - Port Of Call'>](https://www.last.fm/music/silje%2bnergaard/port%2bof%2bcall)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/47ccc72563bd0267741d99b37af964a8.jpg' width='16%' height='16%' alt='Kevin Mahogany - My Romance'>](https://www.last.fm/music/kevin%2bmahogany/my%2bromance)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/68e90c24950ee86fa250346b3d83b5b9.jpg' width='16%' height='16%' alt='Sarah McKenzie - Paris In The Rain'>](https://www.last.fm/music/sarah%2bmckenzie/paris%2bin%2bthe%2brain)&nbsp;
 <br>
