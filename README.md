@@ -12,5 +12,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fea282ce551c886a8897b4235b572fef.png' width='16%' height='16%' alt='Saule Kilaite - The Concert'>](https://www.last.fm/music/saule%2bkilaite/the%2bconcert)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/de9f65958c5d44a8c428e1bb3d5b60fd.jpg' width='16%' height='16%' alt='Katica Illényi - The Jazzy Violin (Live)'>](https://www.last.fm/music/katica%2bill%25c3%25a9nyi/the%2bjazzy%2bviolin%2b%2528live%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c6ea17678229fc5187bb6696d799dccb.jpg' width='16%' height='16%' alt='Saule Kilaite - Picasso'>](https://www.last.fm/music/saule%2bkilaite/picasso)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/50de1854268548389eb03fd4a96e30d5.jpg' width='16%' height='16%' alt='Yvonne Smeets - Under a Cloud'>](https://www.last.fm/music/yvonne%2bsmeets/under%2ba%2bcloud)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1969883d4fd942ccb198348a7cce83a9.png' width='16%' height='16%' alt='Diana Krall - The Girl In The Other Room'>](https://www.last.fm/music/diana%2bkrall/the%2bgirl%2bin%2bthe%2bother%2broom)&nbsp;
 <br>
