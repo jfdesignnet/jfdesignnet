@@ -10,7 +10,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fe475caf14e08437d8704e0da9f0e52d.jpg' width='16%' height='16%' alt='Bill Evans - Late Night Bill Evans'>](https://www.last.fm/music/bill%2bevans/late%2bnight%2bbill%2bevans)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2aef08f630154fd9bfcc14df04151f5e.jpg' width='16%' height='16%' alt='Cæcilie Norby - I Had A Ball - Greatest & More'>](https://www.last.fm/music/c%25c3%25a6cilie%2bnorby/i%2bhad%2ba%2bball%2b-%2bgreatest%2b%2526%2bmore)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/355b87550b617d6cfb6662da7830c4b8.jpg' width='16%' height='16%' alt='Blue Martini Jazz - The Night We Called It A Day'>](https://www.last.fm/music/blue%2bmartini%2bjazz/the%2bnight%2bwe%2bcalled%2bit%2ba%2bday)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/34dc213c787cfec56052b70e01ab4bd5.jpg' width='16%' height='16%' alt='Chet Baker - Late Night Chet Baker'>](https://www.last.fm/music/chet%2bbaker/late%2bnight%2bchet%2bbaker)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/040f28b19154d1fe86f19fc565b0d3e6.jpg' width='16%' height='16%' alt='Judith Owen - Somebodys Child'>](https://www.last.fm/music/judith%2bowen/somebody%2527s%2bchild)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/64a7e0ec15ffdaaf60942dbc4f163e85.jpg' width='16%' height='16%' alt='Susan Werner - I Cant Be New'>](https://www.last.fm/music/susan%2bwerner/i%2bcan%2527t%2bbe%2bnew)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1969883d4fd942ccb198348a7cce83a9.png' width='16%' height='16%' alt='Diana Krall - The Girl In The Other Room'>](https://www.last.fm/music/diana%2bkrall/the%2bgirl%2bin%2bthe%2bother%2broom)&nbsp;
 <br>
