@@ -9,8 +9,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fe475caf14e08437d8704e0da9f0e52d.jpg' width='16%' height='16%' alt='Bill Evans - Late Night Bill Evans'>](https://www.last.fm/music/bill%2bevans/late%2bnight%2bbill%2bevans)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1969883d4fd942ccb198348a7cce83a9.png' width='16%' height='16%' alt='Diana Krall - The Girl In The Other Room'>](https://www.last.fm/music/diana%2bkrall/the%2bgirl%2bin%2bthe%2bother%2broom)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e80961d25ad0dba08fb99988d12cb431.jpg' width='16%' height='16%' alt='Jamie Cullum - The Pianoman at Christmas (The Complete Edition)'>](https://www.last.fm/music/jamie%2bcullum/the%2bpianoman%2bat%2bchristmas%2b%2528the%2bcomplete%2bedition%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ece37c9faabc4212ac5dbfab7c6d88a7.jpg' width='16%' height='16%' alt='Lucia Micarelli - Interlude'>](https://www.last.fm/music/lucia%2bmicarelli/interlude)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0d1f44fadc571df60099abeee01ffe58.jpg' width='16%' height='16%' alt='Norah Jones - Come Away With Me (Super Deluxe Edition)'>](https://www.last.fm/music/norah%2bjones/come%2baway%2bwith%2bme%2b%2528super%2bdeluxe%2bedition%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c6ea17678229fc5187bb6696d799dccb.jpg' width='16%' height='16%' alt='Saule Kilaite - Picasso'>](https://www.last.fm/music/saule%2bkilaite/picasso)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fea282ce551c886a8897b4235b572fef.png' width='16%' height='16%' alt='Saule Kilaite - The Concert'>](https://www.last.fm/music/saule%2bkilaite/the%2bconcert)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7efe3bf2f6c0a76c816cb728f02d4668.png' width='16%' height='16%' alt='Chemayne - Christmas Harp'>](https://www.last.fm/music/chemayne/christmas%2bharp)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/088bb92a3669433537cdb76d6ae1fa7d.jpg' width='16%' height='16%' alt='Saxophone Dreamsound - Sax Christmas'>](https://www.last.fm/music/saxophone%2bdreamsound/sax%2bchristmas)&nbsp;
 <br>
