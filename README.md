@@ -12,5 +12,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0bcaef1eba919484b4fef5ae359f65ea.jpg' width='16%' height='16%' alt='Maria Callas - Opera with Maria Callas'>](https://www.last.fm/music/maria%2bcallas/opera%2bwith%2bmaria%2bcallas)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0183a8acf19f80f0ab6f1252b60b9430.jpg' width='16%' height='16%' alt='Anne-Sophie Mutter - Queen of the Violin'>](https://www.last.fm/music/anne-sophie%2bmutter/queen%2bof%2bthe%2bviolin)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9658a1cd35c44142a111ca103e5d75f4.jpg' width='16%' height='16%' alt='Maria Callas - Maria Callas'>](https://www.last.fm/music/maria%2bcallas/maria%2bcallas)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/afad10b186b349330054987da3c65dac.jpg' width='16%' height='16%' alt='John Williams - Memoirs of a Geisha (Remastered)'>](https://www.last.fm/music/john%2bwilliams/memoirs%2bof%2ba%2bgeisha%2b%2528remastered%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d70fb099c5594b1f829dfe2752fe08a4.jpg' width='16%' height='16%' alt='Etta James - Heart & Soul: A Retrospective'>](https://www.last.fm/music/etta%2bjames/heart%2b%2526%2bsoul%253a%2ba%2bretrospective)&nbsp;
 <br>
