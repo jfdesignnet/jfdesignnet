@@ -2,15 +2,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/jfdesignnet) in the last week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6731991b9261c1605c6df6dcca78dd78.jpg' width='16%' height='16%' alt='George Frideric Handel - Handel: Theodora, HWV 68'>](https://www.last.fm/music/george%2bfrideric%2bhandel/handel%253a%2btheodora%252c%2bhwv%2b68)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/81ececd7f15381a0713865ce646fe74c.jpg' width='16%' height='16%' alt='Giorgia Fumanti - Mystic'>](https://www.last.fm/music/giorgia%2bfumanti/mystic)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ffc281d03f4b188051a4351cb27fbf22.jpg' width='16%' height='16%' alt='Igor Stravinsky - Stravinsky Ballets'>](https://www.last.fm/music/igor%2bstravinsky/stravinsky%2bballets)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e19ef98cdcded680e5e7cf20f3a024fd.jpg' width='16%' height='16%' alt='Igor Stravinsky, Sir Simon Rattle, London Symphony Orchestra - Stravinsky Ballets'>](https://www.last.fm/music/igor%2bstravinsky%252c%2bsir%2bsimon%2brattle%252c%2blondon%2bsymphony%2borchestra/stravinsky%2bballets)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e098554ef827bce14615e608eb954eee.jpg' width='16%' height='16%' alt='Anna Netrebko - Romanza (Deluxe Edition)'>](https://www.last.fm/music/anna%2bnetrebko/romanza%2b%2528deluxe%2bedition%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0d1f44fadc571df60099abeee01ffe58.jpg' width='16%' height='16%' alt='Norah Jones - Come Away With Me (Super Deluxe Edition)'>](https://www.last.fm/music/norah%2bjones/come%2baway%2bwith%2bme%2b%2528super%2bdeluxe%2bedition%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/58543c06426b4947850c308b050bd89b.jpg' width='16%' height='16%' alt='Diana Krall - The Very Best Of Diana Krall'>](https://www.last.fm/music/diana%2bkrall/the%2bvery%2bbest%2bof%2bdiana%2bkrall)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f36a29187bbf495bbfa1c4e93a633aa0.jpg' width='16%' height='16%' alt='Chantal Chamberland - Dripping Indigo'>](https://www.last.fm/music/chantal%2bchamberland/dripping%2bindigo)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a212cd5954433e47ba350a4a3fa22d97.jpg' width='16%' height='16%' alt='Diana Krall - Glad Rag Doll (Deluxe Edition)'>](https://www.last.fm/music/diana%2bkrall/glad%2brag%2bdoll%2b%2528deluxe%2bedition%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/991a6471e0e3e9b68722dec8ea7673c0.jpg' width='16%' height='16%' alt='Emilie Schiøtt - After the Rain'>](https://www.last.fm/music/emilie%2bschi%25c3%25b8tt/after%2bthe%2brain)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0bcaef1eba919484b4fef5ae359f65ea.jpg' width='16%' height='16%' alt='Maria Callas - Opera with Maria Callas'>](https://www.last.fm/music/maria%2bcallas/opera%2bwith%2bmaria%2bcallas)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9658a1cd35c44142a111ca103e5d75f4.jpg' width='16%' height='16%' alt='Maria Callas - Maria Callas'>](https://www.last.fm/music/maria%2bcallas/maria%2bcallas)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/001594176ecf4c75b26f3bebdb7de7bf.png' width='16%' height='16%' alt='Diana Krall - Quiet Nights'>](https://www.last.fm/music/diana%2bkrall/quiet%2bnights)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d70fb099c5594b1f829dfe2752fe08a4.jpg' width='16%' height='16%' alt='Etta James - Heart & Soul: A Retrospective'>](https://www.last.fm/music/etta%2bjames/heart%2b%2526%2bsoul%253a%2ba%2bretrospective)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b63506b498c94894ef00b32a97f44059.jpg' width='16%' height='16%' alt='Giacomo Puccini - Maria Callas - Puccini'>](https://www.last.fm/music/giacomo%2bpuccini/maria%2bcallas%2b-%2bpuccini)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7125820790928499e4f63f49c9545ce6.png' width='16%' height='16%' alt='Giorgia Fumanti - Amour'>](https://www.last.fm/music/giorgia%2bfumanti/amour)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1969883d4fd942ccb198348a7cce83a9.png' width='16%' height='16%' alt='Diana Krall - The Girl In The Other Room'>](https://www.last.fm/music/diana%2bkrall/the%2bgirl%2bin%2bthe%2bother%2broom)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/355b87550b617d6cfb6662da7830c4b8.jpg' width='16%' height='16%' alt='Blue Martini Jazz - The Night We Called It A Day'>](https://www.last.fm/music/blue%2bmartini%2bjazz/the%2bnight%2bwe%2bcalled%2bit%2ba%2bday)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7450bac09cf6df899ea0c8518b3b31bb.jpg' width='16%' height='16%' alt='Diana Krall - The Look of Love'>](https://www.last.fm/music/diana%2bkrall/the%2blook%2bof%2blove)&nbsp;
 <br>
