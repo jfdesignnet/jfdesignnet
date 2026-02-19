@@ -12,5 +12,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9658a1cd35c44142a111ca103e5d75f4.jpg' width='16%' height='16%' alt='Maria Callas - Maria Callas'>](https://www.last.fm/music/maria%2bcallas/maria%2bcallas)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0bcaef1eba919484b4fef5ae359f65ea.jpg' width='16%' height='16%' alt='Maria Callas - Opera with Maria Callas'>](https://www.last.fm/music/maria%2bcallas/opera%2bwith%2bmaria%2bcallas)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b63506b498c94894ef00b32a97f44059.jpg' width='16%' height='16%' alt='Giacomo Puccini - Maria Callas - Puccini'>](https://www.last.fm/music/giacomo%2bpuccini/maria%2bcallas%2b-%2bpuccini)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/84a6610777e54bfbbb28beb52d9432ee.jpg' width='16%' height='16%' alt='Lisa Wahlandt - Wowowonder'>](https://www.last.fm/music/lisa%2bwahlandt/wowowonder)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/02d966b1cde8cc8380de31565f2e4060.jpg' width='16%' height='16%' alt='Hélène Grimaud - Rachmaninoff: Sonata No. 2, Etudes-Tableaux, Op. 33 & Others'>](https://www.last.fm/music/h%25c3%25a9l%25c3%25a8ne%2bgrimaud/rachmaninoff%253a%2bsonata%2bno.%2b2%252c%2betudes-tableaux%252c%2bop.%2b33%2b%2526%2bothers)&nbsp;
 <br>
