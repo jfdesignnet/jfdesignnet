@@ -2,15 +2,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/jfdesignnet) in the last week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/34dc213c787cfec56052b70e01ab4bd5.jpg' width='16%' height='16%' alt='Chet Baker - Late Night Chet Baker'>](https://www.last.fm/music/chet%2bbaker/late%2bnight%2bchet%2bbaker)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fe475caf14e08437d8704e0da9f0e52d.jpg' width='16%' height='16%' alt='Bill Evans - Late Night Bill Evans'>](https://www.last.fm/music/bill%2bevans/late%2bnight%2bbill%2bevans)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d70fb099c5594b1f829dfe2752fe08a4.jpg' width='16%' height='16%' alt='Etta James - Heart & Soul: A Retrospective'>](https://www.last.fm/music/etta%2bjames/heart%2b%2526%2bsoul%253a%2ba%2bretrospective)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9ca38a96784df998796d5a984a6fb271.jpg' width='16%' height='16%' alt='Niels Lan Doky - Scandinavian Standards'>](https://www.last.fm/music/niels%2blan%2bdoky/scandinavian%2bstandards)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/25ad9b19edf97dbe77d6364108d7b31d.jpg' width='16%' height='16%' alt='Trigg & Gusset - Adagio for the Blue'>](https://www.last.fm/music/trigg%2b%2526%2bgusset/adagio%2bfor%2bthe%2bblue)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fe475caf14e08437d8704e0da9f0e52d.jpg' width='16%' height='16%' alt='Bill Evans - Late Night Bill Evans'>](https://www.last.fm/music/bill%2bevans/late%2bnight%2bbill%2bevans)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d3f7ba76cc53ab3881efcb6c4da1422f.png' width='16%' height='16%' alt='Etta James - At Last!'>](https://www.last.fm/music/etta%2bjames/at%2blast%2521)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d0f38bb03d5c77f7579a953d45717457.jpg' width='16%' height='16%' alt='Shemekia Copeland - Turn the Heat Up!'>](https://www.last.fm/music/shemekia%2bcopeland/turn%2bthe%2bheat%2bup%2521)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2c317b57927ba5237eed1d14e9f26fb3.jpg' width='16%' height='16%' alt='Sue Foley - The Ice Queen'>](https://www.last.fm/music/sue%2bfoley/the%2bice%2bqueen)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/82e8cbc54f3c99ef1383a8b75d7b2986.jpg' width='16%' height='16%' alt='Chris Botti - Chris Botti: Impressions'>](https://www.last.fm/music/chris%2bbotti/chris%2bbotti%253a%2bimpressions)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b77068a5685e0a362a4a26210f26eb9e.jpg' width='16%' height='16%' alt='The Eddie Higgins Trio - Portraits of Love'>](https://www.last.fm/music/the%2beddie%2bhiggins%2btrio/portraits%2bof%2blove)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8284b220aaed5a5b2aefd8a5e845d595.jpg' width='16%' height='16%' alt='The Eddie Higgins Trio - You Are Too Beautiful'>](https://www.last.fm/music/the%2beddie%2bhiggins%2btrio/you%2bare%2btoo%2bbeautiful)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/24c210d603eb036efc7387b0e56dec7d.jpg' width='16%' height='16%' alt='Tord Gustavsen Quartet - Extended Circle'>](https://www.last.fm/music/tord%2bgustavsen%2bquartet/extended%2bcircle)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/69d7482406704ccda5d66d88ec664e91.jpg' width='16%' height='16%' alt='Trigg & Gusset - Legacy of the Witty'>](https://www.last.fm/music/trigg%2b%2526%2bgusset/legacy%2bof%2bthe%2bwitty)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f3d022672ccb56d1c4174330f043b8eb.jpg' width='16%' height='16%' alt='Carolyn Wonderland - Live Texas Trio'>](https://www.last.fm/music/carolyn%2bwonderland/live%2btexas%2btrio)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0a00376b39654cd3cc4ddbffa7c140a0.png' width='16%' height='16%' alt='Gary Moore - Still Got the Blues'>](https://www.last.fm/music/gary%2bmoore/still%2bgot%2bthe%2bblues)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/885de9a564fcb18c9c87b003e745e387.jpg' width='16%' height='16%' alt='Heather Newman - Burn Me Alive'>](https://www.last.fm/music/heather%2bnewman/burn%2bme%2balive)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9266959db79242569c6fd7c65f8e4bf3.jpg' width='16%' height='16%' alt='Joanna Connor - Nothing but the Blues'>](https://www.last.fm/music/joanna%2bconnor/nothing%2bbut%2bthe%2bblues)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0f4a1b47e3515cd3921b87ea4a494423.jpg' width='16%' height='16%' alt='Joss Stone - Mind Body & Soul'>](https://www.last.fm/music/joss%2bstone/mind%2bbody%2b%2526%2bsoul)&nbsp;
 <br>
