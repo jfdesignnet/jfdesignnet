@@ -9,8 +9,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/81ececd7f15381a0713865ce646fe74c.jpg' width='16%' height='16%' alt='Giorgia Fumanti - Mystic'>](https://www.last.fm/music/giorgia%2bfumanti/mystic)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/de9f65958c5d44a8c428e1bb3d5b60fd.jpg' width='16%' height='16%' alt='Katica Illényi - The Jazzy Violin (Live)'>](https://www.last.fm/music/katica%2bill%25c3%25a9nyi/the%2bjazzy%2bviolin%2b%2528live%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4e0b52b333b7a25bc322d91998836c5f.jpg' width='16%' height='16%' alt='Brian Crain - Deep Focus Piano Study Playlist'>](https://www.last.fm/music/brian%2bcrain/deep%2bfocus%2bpiano%2bstudy%2bplaylist)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ece37c9faabc4212ac5dbfab7c6d88a7.jpg' width='16%' height='16%' alt='Lucia Micarelli - Interlude'>](https://www.last.fm/music/lucia%2bmicarelli/interlude)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c6ea17678229fc5187bb6696d799dccb.jpg' width='16%' height='16%' alt='Saule Kilaite - Picasso'>](https://www.last.fm/music/saule%2bkilaite/picasso)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fea282ce551c886a8897b4235b572fef.png' width='16%' height='16%' alt='Saule Kilaite - The Concert'>](https://www.last.fm/music/saule%2bkilaite/the%2bconcert)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5db4e0184d559155779b87195c4de3d0.jpg' width='16%' height='16%' alt='John Scofield - John Scofield'>](https://www.last.fm/music/john%2bscofield/john%2bscofield)&nbsp;
 <br>
