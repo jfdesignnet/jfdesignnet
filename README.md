@@ -4,13 +4,13 @@
 
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fe475caf14e08437d8704e0da9f0e52d.jpg' width='16%' height='16%' alt='Bill Evans - Late Night Bill Evans'>](https://www.last.fm/music/bill%2bevans/late%2bnight%2bbill%2bevans)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/34dc213c787cfec56052b70e01ab4bd5.jpg' width='16%' height='16%' alt='Chet Baker - Late Night Chet Baker'>](https://www.last.fm/music/chet%2bbaker/late%2bnight%2bchet%2bbaker)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/afb34e8cb9dd53f96429a6e391234e0c.jpg' width='16%' height='16%' alt='Katica Illényi - Bartók National Concert Hall Palace of Arts Budapest (Live)'>](https://www.last.fm/music/katica%2bill%25c3%25a9nyi/bart%25c3%25b3k%2bnational%2bconcert%2bhall%2bpalace%2bof%2barts%2bbudapest%2b%2528live%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/de9f65958c5d44a8c428e1bb3d5b60fd.jpg' width='16%' height='16%' alt='Katica Illényi - The Jazzy Violin (Live)'>](https://www.last.fm/music/katica%2bill%25c3%25a9nyi/the%2bjazzy%2bviolin%2b%2528live%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ece37c9faabc4212ac5dbfab7c6d88a7.jpg' width='16%' height='16%' alt='Lucia Micarelli - Interlude'>](https://www.last.fm/music/lucia%2bmicarelli/interlude)&nbsp;
-<br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c6ea17678229fc5187bb6696d799dccb.jpg' width='16%' height='16%' alt='Saule Kilaite - Picasso'>](https://www.last.fm/music/saule%2bkilaite/picasso)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fea282ce551c886a8897b4235b572fef.png' width='16%' height='16%' alt='Saule Kilaite - The Concert'>](https://www.last.fm/music/saule%2bkilaite/the%2bconcert)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0d1f44fadc571df60099abeee01ffe58.jpg' width='16%' height='16%' alt='Norah Jones - Come Away With Me (Super Deluxe Edition)'>](https://www.last.fm/music/norah%2bjones/come%2baway%2bwith%2bme%2b%2528super%2bdeluxe%2bedition%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5db4e0184d559155779b87195c4de3d0.jpg' width='16%' height='16%' alt='John Scofield - John Scofield'>](https://www.last.fm/music/john%2bscofield/john%2bscofield)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/93c10b64e7824bbea4da5a54bcc42fc1.jpg' width='16%' height='16%' alt='Lucia Micarelli - Music From a Farther Room'>](https://www.last.fm/music/lucia%2bmicarelli/music%2bfrom%2ba%2bfarther%2broom)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5d89f091db927c7ba1f5391f95bde3e2.jpg' width='16%' height='16%' alt='ViOLiNiA Zhanna Stelmakh - Classical Violin'>](https://www.last.fm/music/violinia%2bzhanna%2bstelmakh/classical%2bviolin)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/746aa484080b41c58b46dd589ad88d17.jpg' width='16%' height='16%' alt='Julia Hülsmann Trio - Imprint'>](https://www.last.fm/music/julia%2bh%25c3%25bclsmann%2btrio/imprint)&nbsp;
+<br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b96429822b40dfdb2fb6e8b98b7b8c70.jpg' width='16%' height='16%' alt='Nicki Parrott - Papa Loves Mambo'>](https://www.last.fm/music/nicki%2bparrott/papa%2bloves%2bmambo)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/57f9df778b8afa495f85a21b32a4ca74.jpg' width='16%' height='16%' alt='The Eddie Higgins Trio - Bewitched'>](https://www.last.fm/music/the%2beddie%2bhiggins%2btrio/bewitched)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/58543c06426b4947850c308b050bd89b.jpg' width='16%' height='16%' alt='Diana Krall - The Very Best Of Diana Krall'>](https://www.last.fm/music/diana%2bkrall/the%2bvery%2bbest%2bof%2bdiana%2bkrall)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/51e523f8798045359c418b517bdfd69c.jpg' width='16%' height='16%' alt='Nicki Parrott - Black Coffee'>](https://www.last.fm/music/nicki%2bparrott/black%2bcoffee)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8cc67d22aa3718fe75d3b5dfa54e3399.jpg' width='16%' height='16%' alt='Patricia Barber - Smash'>](https://www.last.fm/music/patricia%2bbarber/smash)&nbsp;
 <br>
