@@ -2,10 +2,12 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/jfdesignnet) in the last week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/53d599e4d07041039feef0c8a9a18450.png' width='16%' height='16%' alt='Barbra Streisand - A Star Is Born'>](https://www.last.fm/music/barbra%2bstreisand/a%2bstar%2bis%2bborn)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/db14077b223d4e7989703886574f7367.png' width='16%' height='16%' alt='Don McLean - American Pie'>](https://www.last.fm/music/don%2bmclean/american%2bpie)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/46b255992605b40acf67de680b92c0cb.jpg' width='16%' height='16%' alt='Frank Sinatra - Days Of Wine And Roses, Moon River And Other Academy Award Winners'>](https://www.last.fm/music/frank%2bsinatra/days%2bof%2bwine%2band%2broses%252c%2bmoon%2briver%2band%2bother%2bacademy%2baward%2bwinners)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/12ed3c9e2617787f4b195c17de21966d.jpg' width='16%' height='16%' alt='Gladys Knight & The Pips - Neither One Of Us'>](https://www.last.fm/music/gladys%2bknight%2b%2526%2bthe%2bpips/neither%2bone%2bof%2bus)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c1e74590bcb3508094382d7713e0a2d8.jpg' width='16%' height='16%' alt='Peggy Lee - The Best of Peggy Lee'>](https://www.last.fm/music/peggy%2blee/the%2bbest%2bof%2bpeggy%2blee)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d287a1462ebe60e1ee177d6ab7a13407.jpg' width='16%' height='16%' alt='Benny Rivers - Rough Nights (Ain’t Nobody Knows It Like I Do)'>](https://www.last.fm/music/benny%2brivers/rough%2bnights%2b%2528ain%25e2%2580%2599t%2bnobody%2bknows%2bit%2blike%2bi%2bdo%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7806494010fd8c6a6e582fe56b50c1c7.jpg' width='16%' height='16%' alt='Benny Rivers - Step by Step in Time'>](https://www.last.fm/music/benny%2brivers/step%2bby%2bstep%2bin%2btime)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b16cd98b2f216e8c7704ac5ea1d3a674.jpg' width='16%' height='16%' alt='Carole King - Tapestry'>](https://www.last.fm/music/carole%2bking/tapestry)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d0365a914cd17b917a4262e3329b8b3a.jpg' width='16%' height='16%' alt='David Soul - David Soul'>](https://www.last.fm/music/david%2bsoul/david%2bsoul)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/34f28d7b310aff86cb8de1f19a1339a9.png' width='16%' height='16%' alt='Etta James - Tell Mama'>](https://www.last.fm/music/etta%2bjames/tell%2bmama)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8911e03c423641c4c1b0146711af62cb.png' width='16%' height='16%' alt='The Hollies - Hollies'>](https://www.last.fm/music/the%2bhollies/hollies)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/349d64820e124b77cb5275ab03042693.png' width='16%' height='16%' alt='Fleetwood Mac - Rumours'>](https://www.last.fm/music/fleetwood%2bmac/rumours)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b62724825856898005be27dad0a03519.png' width='16%' height='16%' alt='Roberta Flack - Killing Me Softly'>](https://www.last.fm/music/roberta%2bflack/killing%2bme%2bsoftly)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d6d7459275d62433c672252f1c06fa2c.jpg' width='16%' height='16%' alt='Simon & Garfunkel - The Concert In Central Park (Live)'>](https://www.last.fm/music/simon%2b%2526%2bgarfunkel/the%2bconcert%2bin%2bcentral%2bpark%2b%2528live%2529)&nbsp;
