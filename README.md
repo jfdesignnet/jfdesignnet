@@ -10,7 +10,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/13d451ef75fdc9836da9664b917186a6.jpg' width='16%' height='16%' alt='Triosence - Away for a While'>](https://www.last.fm/music/triosence/away%2bfor%2ba%2bwhile)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ed355efbcc1077f3ba105d4219ef8b8c.jpg' width='16%' height='16%' alt='Triosence - scorpio rising'>](https://www.last.fm/music/triosence/scorpio%2brising)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0d1f44fadc571df60099abeee01ffe58.jpg' width='16%' height='16%' alt='Norah Jones - Come Away With Me (Super Deluxe Edition)'>](https://www.last.fm/music/norah%2bjones/come%2baway%2bwith%2bme%2b%2528super%2bdeluxe%2bedition%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b77068a5685e0a362a4a26210f26eb9e.jpg' width='16%' height='16%' alt='The Eddie Higgins Trio - Portraits of Love'>](https://www.last.fm/music/the%2beddie%2bhiggins%2btrio/portraits%2bof%2blove)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2c454c54a7b44496b6e12cce5d4217d6.jpg' width='16%' height='16%' alt='Tord Gustavsen Quartet - The Well'>](https://www.last.fm/music/tord%2bgustavsen%2bquartet/the%2bwell)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e1d06587c3b799c1e45bebed5240b6cc.jpg' width='16%' height='16%' alt='Triosence - Hidden Beauty'>](https://www.last.fm/music/triosence/hidden%2bbeauty)&nbsp;
 <br>
