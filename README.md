@@ -2,15 +2,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/jfdesignnet) in the last week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fb33c0a771624d1a942fc5f6e6acad23.jpg' width='16%' height='16%' alt='Julia Hülsmann Trio - The End Of A Summer'>](https://www.last.fm/music/julia%2bh%25c3%25bclsmann%2btrio/the%2bend%2bof%2ba%2bsummer)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b77068a5685e0a362a4a26210f26eb9e.jpg' width='16%' height='16%' alt='The Eddie Higgins Trio - Portraits of Love'>](https://www.last.fm/music/the%2beddie%2bhiggins%2btrio/portraits%2bof%2blove)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2c454c54a7b44496b6e12cce5d4217d6.jpg' width='16%' height='16%' alt='Tord Gustavsen Quartet - The Well'>](https://www.last.fm/music/tord%2bgustavsen%2bquartet/the%2bwell)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e1d06587c3b799c1e45bebed5240b6cc.jpg' width='16%' height='16%' alt='Triosence - Hidden Beauty'>](https://www.last.fm/music/triosence/hidden%2bbeauty)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9ca38a96784df998796d5a984a6fb271.jpg' width='16%' height='16%' alt='Niels Lan Doky - Scandinavian Standards'>](https://www.last.fm/music/niels%2blan%2bdoky/scandinavian%2bstandards)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2c058f874638ddb77a438250f1280d6b.jpg' width='16%' height='16%' alt='Barbara Thompson - In the Eye of a Storm'>](https://www.last.fm/music/barbara%2bthompson/in%2bthe%2beye%2bof%2ba%2bstorm)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7dc37636eace6c782a685a047c92c9d7.png' width='16%' height='16%' alt='綾戸智絵 - BEST II'>](https://www.last.fm/music/%25e7%25b6%25be%25e6%2588%25b8%25e6%2599%25ba%25e7%25b5%25b5/best%2bii)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ba3f68c7b0dd1c09cd20145049af2836.jpg' width='16%' height='16%' alt='Halie Loren - LIVE AT COTTON CLUB'>](https://www.last.fm/music/halie%2bloren/live%2bat%2bcotton%2bclub)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f7e2bbd438060bcb84223b11753c8306.jpg' width='16%' height='16%' alt='Lyn Stanley - Potions (From the 50s)'>](https://www.last.fm/music/lyn%2bstanley/potions%2b%2528from%2bthe%2b50s%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ac19172600395aa4452b6fe12e66cece.jpg' width='16%' height='16%' alt='Nancy LaMott - Ask Me Again'>](https://www.last.fm/music/nancy%2blamott/ask%2bme%2bagain)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a894273b04f26d8502c5faa757e7d017.jpg' width='16%' height='16%' alt='Anat Fort Trio - And If'>](https://www.last.fm/music/anat%2bfort%2btrio/and%2bif)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7a2c7929bfbf4c75cc8f26972f3f94d2.jpg' width='16%' height='16%' alt='Arild Andersen - Mira'>](https://www.last.fm/music/arild%2bandersen/mira)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6197d608df5dc073fc0cebce3ed67590.jpg' width='16%' height='16%' alt='Arild Andersen, Tommy Smith, Paolo Vinaccia - Mira'>](https://www.last.fm/music/arild%2bandersen%252c%2btommy%2bsmith%252c%2bpaolo%2bvinaccia/mira)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b9367d1671a74ac8caba1437ffab33ac.jpg' width='16%' height='16%' alt='Chris Botti - To Love Again'>](https://www.last.fm/music/chris%2bbotti/to%2blove%2bagain)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e148b83e3a0449f7c993f58d6eb07076.jpg' width='16%' height='16%' alt='Halie Loren - Heart First'>](https://www.last.fm/music/halie%2bloren/heart%2bfirst)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2e85099c6e934523c5b8acc9438f0d80.jpg' width='16%' height='16%' alt='Rebekka Bakken - Little Drop of Poison'>](https://www.last.fm/music/rebekka%2bbakken/little%2bdrop%2bof%2bpoison)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7ef00d3a26bd4feab48791d03b2f2bef.jpg' width='16%' height='16%' alt='Bria Skonberg - So Is the Day'>](https://www.last.fm/music/bria%2bskonberg/so%2bis%2bthe%2bday)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a3437d5d116e4faecf7685bed7eccba3.jpg' width='16%' height='16%' alt='Halie Loren - THE BEST COLLECTION'>](https://www.last.fm/music/halie%2bloren/the%2bbest%2bcollection)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6cc8012d99644c6cac6f4545c8a43c1b.jpg' width='16%' height='16%' alt='Hilary Kole - Haunted Heart'>](https://www.last.fm/music/hilary%2bkole/haunted%2bheart)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/eaf61aee3434eb7721e339df00600ba9.jpg' width='16%' height='16%' alt='Kelly Mittleman - Kelly'>](https://www.last.fm/music/kelly%2bmittleman/kelly)&nbsp;
 <br>
