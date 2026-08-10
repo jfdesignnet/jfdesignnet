@@ -2,15 +2,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/jfdesignnet) in the last week
 
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/da385c03fdb5731456684cba6b0019eb.jpg' width='16%' height='16%' alt='Coronatus - Recreatio Carminis'>](https://www.last.fm/music/coronatus/recreatio%2bcarminis)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/073487e3015fd18b5d950bbcbfc11763.jpg' width='16%' height='16%' alt='Edenbridge - Shangri-La'>](https://www.last.fm/music/edenbridge/shangri-la)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/ecdba24981887896e37989b2c449d441.jpg' width='16%' height='16%' alt='Nightwish - Endless Forms Most Beautiful (Deluxe Version)'>](https://www.last.fm/music/nightwish/endless%2bforms%2bmost%2bbeautiful%2b%2528deluxe%2bversion%2529)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/1d32e509ca720098f6f99af2e08d0d3a.jpg' width='16%' height='16%' alt='Sister Sin - Raw & Mean (Live from Rehearsals)'>](https://www.last.fm/music/sister%2bsin/raw%2b%2526%2bmean%2b%2528live%2bfrom%2brehearsals%2529)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/06bc5800b9c853f27aa6bf3e59b40f4b.jpg' width='16%' height='16%' alt='Amaranthe - Maximalism (Deluxe Edition)'>](https://www.last.fm/music/amaranthe/maximalism%2b%2528deluxe%2bedition%2529)&nbsp;
+<br>
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/ee68150b348b40bac06f8c7ef85bc284.png' width='16%' height='16%' alt='Anita ODay - Anita Sings The Most'>](https://www.last.fm/music/anita%2bo%2527day/anita%2bsings%2bthe%2bmost)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/1b363162b71f94c39efb973fd2aacf74.jpg' width='16%' height='16%' alt='Anne Murray - New Kind Of Feeling'>](https://www.last.fm/music/anne%2bmurray/new%2bkind%2bof%2bfeeling)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/38fb1a6d12a9639433a2fa7393b7e952.png' width='16%' height='16%' alt='Bread - Manna'>](https://www.last.fm/music/bread/manna)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/4844021304a5d568698ad24df772a42f.jpg' width='16%' height='16%' alt='Brenda Lee - All Alone Am I'>](https://www.last.fm/music/brenda%2blee/all%2balone%2bam%2bi)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/4eebef2ce96b792daad7c78be7eb8f0b.jpg' width='16%' height='16%' alt='Brian Hyland - The Bashful Blond'>](https://www.last.fm/music/brian%2bhyland/the%2bbashful%2bblond)&nbsp;
-<br>
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/6e5e9a7fbf2444b7bf7f32b9536f9ed3.jpg' width='16%' height='16%' alt='Brian Poole & The Tremeloes - Do You Love Me'>](https://www.last.fm/music/brian%2bpoole%2b%2526%2bthe%2btremeloes/do%2byou%2blove%2bme)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/34b3ca6138127beae655347a7e7e5933.jpg' width='16%' height='16%' alt='Carmen McRae - By Special Request'>](https://www.last.fm/music/carmen%2bmcrae/by%2bspecial%2brequest)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/99d89f4047962a4a672c99cb6b663b57.png' width='16%' height='16%' alt='Crystal Gayle - We Must Believe In Magic'>](https://www.last.fm/music/crystal%2bgayle/we%2bmust%2bbelieve%2bin%2bmagic)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/cab231eca8a44e3fa5951f8c9e15b451.jpg' width='16%' height='16%' alt='Del Shannon - Runaway'>](https://www.last.fm/music/del%2bshannon/runaway)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/9bedf376ee1568c7d40c27bdfd8851dc.jpg' width='16%' height='16%' alt='Diana Krall - Turn Up The Quiet'>](https://www.last.fm/music/diana%2bkrall/turn%2bup%2bthe%2bquiet)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/a1891f28553c0b89f156323b4926fd31.jpg' width='16%' height='16%' alt='Arch Enemy - Deceivers'>](https://www.last.fm/music/arch%2benemy/deceivers)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/221a089331cfea79ae6e020da947631a.jpg' width='16%' height='16%' alt='Battle Beast - Circus of Doom'>](https://www.last.fm/music/battle%2bbeast/circus%2bof%2bdoom)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/c986ffefbb761be23a468d5338db8ce2.jpg' width='16%' height='16%' alt='Beast in Black - Dark Connection'>](https://www.last.fm/music/beast%2bin%2bblack/dark%2bconnection)&nbsp;
 <br>
