@@ -2,15 +2,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/jfdesignnet) in the last week
 
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/da385c03fdb5731456684cba6b0019eb.jpg' width='16%' height='16%' alt='Coronatus - Recreatio Carminis'>](https://www.last.fm/music/coronatus/recreatio%2bcarminis)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/073487e3015fd18b5d950bbcbfc11763.jpg' width='16%' height='16%' alt='Edenbridge - Shangri-La'>](https://www.last.fm/music/edenbridge/shangri-la)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/ecdba24981887896e37989b2c449d441.jpg' width='16%' height='16%' alt='Nightwish - Endless Forms Most Beautiful (Deluxe Version)'>](https://www.last.fm/music/nightwish/endless%2bforms%2bmost%2bbeautiful%2b%2528deluxe%2bversion%2529)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/1d32e509ca720098f6f99af2e08d0d3a.jpg' width='16%' height='16%' alt='Sister Sin - Raw & Mean (Live from Rehearsals)'>](https://www.last.fm/music/sister%2bsin/raw%2b%2526%2bmean%2b%2528live%2bfrom%2brehearsals%2529)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/06bc5800b9c853f27aa6bf3e59b40f4b.jpg' width='16%' height='16%' alt='Amaranthe - Maximalism (Deluxe Edition)'>](https://www.last.fm/music/amaranthe/maximalism%2b%2528deluxe%2bedition%2529)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/e987b2da597ff5a0b160169041b11654.jpg' width='16%' height='16%' alt='Elegy of Madness - XI'>](https://www.last.fm/music/elegy%2bof%2bmadness/xi)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/330a3b0255e4425bc2b401379ad95af3.png' width='16%' height='16%' alt='Within Temptation - Let Us Burn (Elements & Hydra Live in Concert)'>](https://www.last.fm/music/within%2btemptation/let%2bus%2bburn%2b%2528elements%2b%2526%2bhydra%2blive%2bin%2bconcert%2529)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/3b21495764846227e3e05cf09deffbb0.jpg' width='16%' height='16%' alt='Within Temptation - Resist (Extended Deluxe)'>](https://www.last.fm/music/within%2btemptation/resist%2b%2528extended%2bdeluxe%2529)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/7b6f1e5c82e9ee77afccc2c2a103ad97.jpg' width='16%' height='16%' alt='Coronatus - Secrets Of Nature'>](https://www.last.fm/music/coronatus/secrets%2bof%2bnature)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/510a4cd9d14ce650f5c65d9136fe3f5c.jpg' width='16%' height='16%' alt='Delain - Moonbathers (Deluxe Version)'>](https://www.last.fm/music/delain/moonbathers%2b%2528deluxe%2bversion%2529)&nbsp;
 <br>
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/ee68150b348b40bac06f8c7ef85bc284.png' width='16%' height='16%' alt='Anita ODay - Anita Sings The Most'>](https://www.last.fm/music/anita%2bo%2527day/anita%2bsings%2bthe%2bmost)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/1b363162b71f94c39efb973fd2aacf74.jpg' width='16%' height='16%' alt='Anne Murray - New Kind Of Feeling'>](https://www.last.fm/music/anne%2bmurray/new%2bkind%2bof%2bfeeling)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/a1891f28553c0b89f156323b4926fd31.jpg' width='16%' height='16%' alt='Arch Enemy - Deceivers'>](https://www.last.fm/music/arch%2benemy/deceivers)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/e58170f5d6f2443785e297e40484b2af.jpg' width='16%' height='16%' alt='Wildpath - Underneath'>](https://www.last.fm/music/wildpath/underneath)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/7e9a7d48a566ce011df65d5cedd60daa.jpg' width='16%' height='16%' alt='After Forever, Floor Jansen - Prison Of Desire: The Album (expanded)'>](https://www.last.fm/music/after%2bforever%252c%2bfloor%2bjansen/prison%2bof%2bdesire%253a%2bthe%2balbum%2b%2528expanded%2529)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/51d4889a19125cd0e09182f50c82d353.jpg' width='16%' height='16%' alt='Battle Beast - Battle Beast'>](https://www.last.fm/music/battle%2bbeast/battle%2bbeast)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/221a089331cfea79ae6e020da947631a.jpg' width='16%' height='16%' alt='Battle Beast - Circus of Doom'>](https://www.last.fm/music/battle%2bbeast/circus%2bof%2bdoom)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/c986ffefbb761be23a468d5338db8ce2.jpg' width='16%' height='16%' alt='Beast in Black - Dark Connection'>](https://www.last.fm/music/beast%2bin%2bblack/dark%2bconnection)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/aa60f8ee8b174cfa800b8c2b00d2ee46.jpg' width='16%' height='16%' alt='Dark Princess - Stop My Heart'>](https://www.last.fm/music/dark%2bprincess/stop%2bmy%2bheart)&nbsp;
 <br>
