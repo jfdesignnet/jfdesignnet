@@ -3,14 +3,14 @@
 ### My most listened albums on [last.fm](https://www.last.fm/user/jfdesignnet) in the last week
 
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/623874e62efd6244b450eb662363282c.jpg' width='16%' height='16%' alt='Feuerschwanz - Fegefeuer (Deluxe Version)'>](https://www.last.fm/music/feuerschwanz/fegefeuer%2b%2528deluxe%2bversion%2529)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/8fb39c2f970607cc87b3cc8ea334b47a.jpg' width='16%' height='16%' alt='Eluveitie - Slania (10 Years)'>](https://www.last.fm/music/eluveitie/slania%2b%252810%2byears%2529)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/53427f717a5b49c5b8e71a90a59f4cb9.jpg' width='16%' height='16%' alt='Wolfenmond - Flammenspiel & Schattenklang'>](https://www.last.fm/music/wolfenmond/flammenspiel%2b%2526%2bschattenklang)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/4fd922677368126320f54c98a4eda36c.jpg' width='16%' height='16%' alt='Eivør - Live in Tórshavn'>](https://www.last.fm/music/eiv%25c3%25b8r/live%2bin%2bt%25c3%25b3rshavn)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/f0a83135aef7f1cc2c9ec11a326a2024.jpg' width='16%' height='16%' alt='Peter Gundry - Aurora'>](https://www.last.fm/music/peter%2bgundry/aurora)&nbsp;
-<br>
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/a41c7c34440e9a1e2f3f1b9f9e4d3b37.jpg' width='16%' height='16%' alt='Wolfenmond - Wintersturm'>](https://www.last.fm/music/wolfenmond/wintersturm)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/afd0ead8692b8e9dbcdb941da4ab5e03.jpg' width='16%' height='16%' alt='Danheim - Munarvagr'>](https://www.last.fm/music/danheim/munarvagr)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/6ada41c203bb94f06597c961c9edd64c.jpg' width='16%' height='16%' alt='Eliwagar - Heidr'>](https://www.last.fm/music/eliwagar/heidr)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/29aa79d0da55bdf5b1c7229ffbd13689.jpg' width='16%' height='16%' alt='Faun - Midgard (Tour Edition)'>](https://www.last.fm/music/faun/midgard%2b%2528tour%2bedition%2529)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/caaee7f0c2fd6656971b8947d8437e2e.jpg' width='16%' height='16%' alt='Myrkur - Folkesange'>](https://www.last.fm/music/myrkur/folkesange)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/8aeb595c16551c909d9a1e6f90c32237.jpg' width='16%' height='16%' alt='A Tergo Lupi - Hide'>](https://www.last.fm/music/a%2btergo%2blupi/hide)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/5ab54c1543296e082234d13c64f385b4.jpg' width='16%' height='16%' alt='Lindy-Fay Hella - Seafarer'>](https://www.last.fm/music/lindy-fay%2bhella/seafarer)&nbsp;
+<br>
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/be6005897b73310a3b4baa5457127608.jpg' width='16%' height='16%' alt='Rúnfell - Vangheimr'>](https://www.last.fm/music/r%25c3%25banfell/vangheimr)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/b9b4e18aacfd972135f3af2243a6b303.png' width='16%' height='16%' alt='Forndom - Dauðra Dura'>](https://www.last.fm/music/forndom/dau%25c3%25b0ra%2bdura)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/f47e4f3a9f1cce398b4911f48985577f.jpg' width='16%' height='16%' alt='Hindarfjäll - Från Tidernas Begynnelse'>](https://www.last.fm/music/hindarfj%25c3%25a4ll/fr%25c3%25a5n%2btidernas%2bbegynnelse)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/cb9273df285186ce3954f22e743204e8.jpg' width='16%' height='16%' alt='Ivar Bjørnson & Einar Selvik - Hugsjá'>](https://www.last.fm/music/ivar%2bbj%25c3%25b8rnson%2b%2526%2beinar%2bselvik/hugsj%25c3%25a1)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/21a0ba91a67fd8a3b05020d4e7f13225.png' width='16%' height='16%' alt='Peter Gundry - The Edge of Darkness'>](https://www.last.fm/music/peter%2bgundry/the%2bedge%2bof%2bdarkness)&nbsp;
 <br>
