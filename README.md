@@ -11,6 +11,6 @@
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/75a1e5e0738f9a03698dcc1cfdf9a142.png' width='16%' height='16%' alt='Lyn Stanley - London Calling: A Toast to Julie London'>](https://www.last.fm/music/lyn%2bstanley/london%2bcalling%253a%2ba%2btoast%2bto%2bjulie%2blondon)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/0b056d6bbb0e7526debc2fe99de49ade.jpg' width='16%' height='16%' alt='Melissa Errico - Out Of The Dark – The Film Noir Project'>](https://www.last.fm/music/melissa%2berrico/out%2bof%2bthe%2bdark%2b%25e2%2580%2593%2bthe%2bfilm%2bnoir%2bproject)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/2e85099c6e934523c5b8acc9438f0d80.jpg' width='16%' height='16%' alt='Rebekka Bakken - Little Drop of Poison'>](https://www.last.fm/music/rebekka%2bbakken/little%2bdrop%2bof%2bpoison)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/128258e34f1040a096f003c8bcdc63c8.jpg' width='16%' height='16%' alt='Rebekka Bakken - Morning Hours'>](https://www.last.fm/music/rebekka%2bbakken/morning%2bhours)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/d2243901a5550c028bb5868dd3931192.jpg' width='16%' height='16%' alt='Sophie Milman - In the Moonlight'>](https://www.last.fm/music/sophie%2bmilman/in%2bthe%2bmoonlight)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/bf140c1665cd99c5465fb84bcd60392f.jpg' width='16%' height='16%' alt='Sophie Milman - Make Someone Happy'>](https://www.last.fm/music/sophie%2bmilman/make%2bsomeone%2bhappy)&nbsp;
 <br>
