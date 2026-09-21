@@ -2,15 +2,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/jfdesignnet) in the last week
 
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/38d9292ed49051d87fc5d030a8bad0cd.jpg' width='16%' height='16%' alt='Ana Popovic - Live for Live'>](https://www.last.fm/music/ana%2bpopovic/live%2bfor%2blive)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/cc5ffbdc79b7f15718ab5b58bfd26e90.jpg' width='16%' height='16%' alt='Barbara Dennerlein - My Moments'>](https://www.last.fm/music/barbara%2bdennerlein/my%2bmoments)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/d3f7ba76cc53ab3881efcb6c4da1422f.png' width='16%' height='16%' alt='Etta James - At Last!'>](https://www.last.fm/music/etta%2bjames/at%2blast%2521)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/f3d022672ccb56d1c4174330f043b8eb.jpg' width='16%' height='16%' alt='Carolyn Wonderland - Live Texas Trio'>](https://www.last.fm/music/carolyn%2bwonderland/live%2btexas%2btrio)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/885de9a564fcb18c9c87b003e745e387.jpg' width='16%' height='16%' alt='Heather Newman - Burn Me Alive'>](https://www.last.fm/music/heather%2bnewman/burn%2bme%2balive)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/3aa1d921f6f39b46a6a0de600cac0c35.jpg' width='16%' height='16%' alt='Nicki Parrott - Angel Eyes'>](https://www.last.fm/music/nicki%2bparrott/angel%2beyes)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/dc01f76af0d244357d8bfa47737f926e.jpg' width='16%' height='16%' alt='Nicki Parrott - Unforgettable'>](https://www.last.fm/music/nicki%2bparrott/unforgettable)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/355b87550b617d6cfb6662da7830c4b8.jpg' width='16%' height='16%' alt='Blue Martini Jazz - The Night We Called It A Day'>](https://www.last.fm/music/blue%2bmartini%2bjazz/the%2bnight%2bwe%2bcalled%2bit%2ba%2bday)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/9bedf376ee1568c7d40c27bdfd8851dc.jpg' width='16%' height='16%' alt='Diana Krall - Turn Up The Quiet'>](https://www.last.fm/music/diana%2bkrall/turn%2bup%2bthe%2bquiet)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/9e59fa0b3cad4ff28a096416b2fff2d2.jpg' width='16%' height='16%' alt='Lynne Arriale Trio - Come Together (Tenth Anniversary)'>](https://www.last.fm/music/lynne%2barriale%2btrio/come%2btogether%2b%2528tenth%2banniversary%2529)&nbsp;
 <br>
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/9128f83eb6b97c4e8882673aa2b45874.jpg' width='16%' height='16%' alt='Kyla Brox - Live... At Last'>](https://www.last.fm/music/kyla%2bbrox/live...%2bat%2blast)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/c2506b9a618a41a2c1910cebf6e6affa.jpg' width='16%' height='16%' alt='Sena Ehrhardt - Live My Life'>](https://www.last.fm/music/sena%2behrhardt/live%2bmy%2blife)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/d0f38bb03d5c77f7579a953d45717457.jpg' width='16%' height='16%' alt='Shemekia Copeland - Turn the Heat Up!'>](https://www.last.fm/music/shemekia%2bcopeland/turn%2bthe%2bheat%2bup%2521)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/00a4d6359ce7cc914eb6bcba70f078d7.png' width='16%' height='16%' alt='Ana Popovic - Trilogy (Full Album)'>](https://www.last.fm/music/ana%2bpopovic/trilogy%2b%2528full%2balbum%2529)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/270041fc64e61d78f214278ef1f4e542.jpg' width='16%' height='16%' alt='Danielle Nicole - Wolf Den'>](https://www.last.fm/music/danielle%2bnicole/wolf%2bden)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/842c078a18394098c0c93ea799aac150.jpg' width='16%' height='16%' alt='Lynne Arriale Trio - Inspiration'>](https://www.last.fm/music/lynne%2barriale%2btrio/inspiration)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/0d1f44fadc571df60099abeee01ffe58.jpg' width='16%' height='16%' alt='Norah Jones - Come Away With Me (Super Deluxe Edition)'>](https://www.last.fm/music/norah%2bjones/come%2baway%2bwith%2bme%2b%2528super%2bdeluxe%2bedition%2529)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/6eed847048704866a890098114d76706.jpg' width='16%' height='16%' alt='Patricia Barber - The Cole Porter Mix'>](https://www.last.fm/music/patricia%2bbarber/the%2bcole%2bporter%2bmix)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/f36a29187bbf495bbfa1c4e93a633aa0.jpg' width='16%' height='16%' alt='Chantal Chamberland - Dripping Indigo'>](https://www.last.fm/music/chantal%2bchamberland/dripping%2bindigo)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/5371e42e3911453cc57f725f086e2e73.jpg' width='16%' height='16%' alt='Diana Krall - All For You (A Dedication To The Nat King Cole Trio)'>](https://www.last.fm/music/diana%2bkrall/all%2bfor%2byou%2b%2528a%2bdedication%2bto%2bthe%2bnat%2bking%2bcole%2btrio%2529)&nbsp;
 <br>
